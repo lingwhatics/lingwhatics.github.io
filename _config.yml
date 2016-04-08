@@ -11,8 +11,11 @@ author: Daley Mikalson
 description: > # this means to ignore newlines until "baseurl:"
   Daley's coding posts and such
 baseurl: "" # the subpath of your site, e.g. /blog
+paginate: 3
 twitter_username: lingwhatics
 github_username:  lingwhatics
 
 # Build settings
 markdown: kramdown
+gems:
+   - jekyll-paginate

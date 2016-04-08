@@ -8,6 +8,7 @@ categories: jekyll
 This is an experiment to see if I will actually start working on all the little projects that I have been thinking about.
 
 A few ideas I have had:
+
 - writing the functions of Environment Canada's CFA (Consolidated Frequency Analysis) in R
 - making a proof of concept reproducibly generated presentation for my work colleagues
 - setting up a database for my cycling GPS traces so I can make maps and analyze them more easily

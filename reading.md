@@ -1,3 +1,9 @@
+---
+layout: page
+title: Reading
+permalink: /reading/
+---
+
 ## Books I have been reading
 
 ### 2016

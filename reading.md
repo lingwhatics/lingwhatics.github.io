@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2016
+- _Fordlandia: The Rise and Fall of Henry Ford's Forgotten Jungle City_ by Greg Grandin (2009)
 - _Dance, Gladys, Dance_ by Cassie Stocks (2012)
 - _Us Conductors_ by Sean Michaels (2014)
 - _The Heart Goes Last_ by Margaret Atwood (2015)

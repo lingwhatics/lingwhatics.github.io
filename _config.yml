@@ -8,8 +8,9 @@
 # Site settings
 title: Daley Codes
 author: Daley Mikalson
+email: hi@daleym.ca
 description: > # this means to ignore newlines until "baseurl:"
-  Daley's coding posts and such
+  I am a civil engineer and though I dabbled with coding in university did not ever use it effectively until grad school. This site is for posting about coding projects and other learning activities.
 baseurl: "" # the subpath of your site, e.g. /blog
 paginate: 3
 twitter_username: lingwhatics

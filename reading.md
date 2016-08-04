@@ -234,11 +234,17 @@ _(There are more I just didn’t keep very good track of them.)_
 - _Dracula_ by Bram Stoker (1897)
 - _In the Skin of a Lion_ by Michael Ondaatje (1987)
 
+### 2001
+- _Down and Out in Paris and London_ by George Orwell (1933)
+
+### 2000
+- _The Grapes of Wrath_ by John Steinbeck (1939)
+- _Fried Green Tomatoes at the Whistle Stop Cafe_ by Fannie Flagg (1987)
+
 ### Other time
 
 - _Banker to the Poor: micro-lending and the battle against world poverty_ by Muhammad Yunus (1999)
 - _Davita’s Harp_ by Chaim Potok (1985)
-- _The Grapes of Wrath_ by John Steinbeck (1939)
 - _The Day of the Jackal_ by Frederick Forsyth (1971)
 - _1984_ by George Orwell (1949)
 - _The Paradox of Choice: Why More Is Less_ by Barry Schwartz (2004)
@@ -259,7 +265,5 @@ _(There are more I just didn’t keep very good track of them.)_
 - _The Cider House Rules_ by John Irving (1994)
 - _A Room With a View_ by E.M. Forster (1908)
 - _Cannery Row_ by John Steinbeck (1945)
-- _Fried Green Tomatoes at the Whistle Stop Cafe_ by Fannie Flagg (1987)
-- _Down and Out in Paris and London_ by George Orwell (1933)
 - _The Art of War_ by Sun Tzu (1910)
 - _The Apprenticeship of Duddy Kravitz_ by Mordecai Richler (1959)

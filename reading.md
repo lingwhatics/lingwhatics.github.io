@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2016
+- _Arcadian Adventures with the Idle Rich_ by Stephen Leacock (1914)
 - _Brazillionaires: Chasing Dreams of Wealth in an American Country_ by Alex Cuadros (2016)
 - _Brown: What Being Brown in the World Today Means (to Everyone)_ by Kamal Al-Solaylee (2016)
 - _Fordlandia: The Rise and Fall of Henry Ford's Forgotten Jungle City_ by Greg Grandin (2009)

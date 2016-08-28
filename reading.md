@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2016
+- _Success and Luck: Good Fortune and the Myth of Meritocracy_ by Robert H. Frank (2016)
 - _Arcadian Adventures with the Idle Rich_ by Stephen Leacock (1914)
 - _Brazillionaires: Chasing Dreams of Wealth in an American Country_ by Alex Cuadros (2016)
 - _Brown: What Being Brown in the World Today Means (to Everyone)_ by Kamal Al-Solaylee (2016)

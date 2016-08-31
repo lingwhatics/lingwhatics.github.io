@@ -214,13 +214,14 @@ _(There are more I just didn’t keep very good track of them.)_
 - _One Flew Over the Cuckoo’s Nest_ by Ken Kesey (1962)
 - _The Curious Incident of the Dog in the Night-time_ by Mark Haddon (2003)
 - _Beauty Tips from Moose Jaw_ by Will Ferguson (2004)
+- _Fahrenheit 451_ – Ray Bradbury (1953)
 
 ### 2004
 
 - _The Catcher in the Rye_ by J. D. Salinger (1951)
 - _A Short History of Nearly Everything_ by Bill Bryson (2003)
+- _Fuzzy Logic: Dispatches from the Information Revolution_ by Matthew Friedman (1998)
 - _Eats, Shoots & Leaves_ by Lynne Truss (2003)
-- _Fahrenheit 451_ – Ray Bradbury (1953)
 - _[Jennifer Government](http://www.nationstates.net/)_ by Max Barry (2003)
 - _The Scientist, the Madman, the Thief and their Lightbulb_ by Keith Tutt (2003)
 - _WE_ by Eugene Zamiatin (1924)

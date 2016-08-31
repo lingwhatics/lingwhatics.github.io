@@ -235,6 +235,7 @@ _(There are more I just didn’t keep very good track of them.)_
 
 - _Dracula_ by Bram Stoker (1897)
 - _In the Skin of a Lion_ by Michael Ondaatje (1987)
+- _Brave New World_ by Aldous Huxley (1932)
 
 ### 2001
 - _Down and Out in Paris and London_ by George Orwell (1933)
@@ -251,7 +252,6 @@ _(There are more I just didn’t keep very good track of them.)_
 - _1984_ by George Orwell (1949)
 - _The Paradox of Choice: Why More Is Less_ by Barry Schwartz (2004)
 - _Catch-22_ by Joseph Heller (1955)
-- _Brave New World_ by Aldous Huxley (1932)
 - _The Great Gatsby_ by F. Scott Fitzgerald (1925)
 - _East of Eden_ by John Steinbeck (1952)
 - _Of Mice and Men_ by John Steinbeck (1937)

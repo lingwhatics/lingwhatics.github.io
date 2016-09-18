@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2016
+- _Rio de Janeiro: Extreme City_ by Luiz Eduardo Soares, Anthony Doyle (Translator) (2016)
 - _Success and Luck: Good Fortune and the Myth of Meritocracy_ by Robert H. Frank (2016)
 - _Arcadian Adventures with the Idle Rich_ by Stephen Leacock (1914)
 - _Brazillionaires: Chasing Dreams of Wealth in an American Country_ by Alex Cuadros (2016)
@@ -46,7 +47,6 @@ permalink: /reading/
 - _Seconds: A Graphic Novel_ by Bryan Lee O'Malley (2014)
 
 ### 2014
-
 - _Sex Criminals, Vol. 1: One Weird Trick (Sex Criminals #1-5)_ by Matt Fraction (Writer), Chip Zdarsky (Artist) (2014)
 - _Things We Set On Fire_ by Deborah Reed (2013)
 - _Proof: The Science of Booze_ by Adam Rogers (2014)
@@ -63,7 +63,6 @@ permalink: /reading/
 - _The Simpsons and their Mathematical Secrets_ by Simon Singh (2013)
 
 ### 2013
-
 - _The End of Night: Searching for Natural Darkness in an Age of Artificial Light_ by Paul Bogard (2013)
 - _One Thousand Mustaches: A Cultural History of the Mo_ by Allan Peterkin (2012)
 - _When We Were Orphans_ by Kazuo Ishiguro (2001)
@@ -79,7 +78,6 @@ permalink: /reading/
 - _Spanish Fly_ by Will Ferguson (2008)
 
 ### 2012
-
 - _The Skule Story_ by Richard White (2000)
 - _Up and Down_ by Terry Fallis (2012)
 - _The Cult of Statistical Significance: How the Standard Error Costs Us Jobs, Justice, and Lives_ by Deirdre N. McCloskey and Steve Ziliak (2008)
@@ -100,7 +98,6 @@ permalink: /reading/
 - _[The Chairs Are Where the People Go](http://www.thechairsarewherethepeoplego.com/): How to Live, Work, and Play in the City_ by Misha Glouberman and Sheila Heti (2011)
 
 ### 2011
-
 - _Obliquity: Why Our Goals Are Best Achieved Indirectly_ by John Kay (2010)
 - _Pyongyang A Journey in North Korea_ by Guy Delisle (2005)
 - _Apocalypse for Beginners_ by Nicolas Dickner, Lazer Lederhendler (Translator) (2010)
@@ -122,7 +119,6 @@ permalink: /reading/
 - _[The Public Domain: Enclosing the Commons of the Mind](http://www.thepublicdomain.org/)_ by James Boyle (2010)
 
 ### 2010
-
 - _Natural Capitalism_ by Paul Hawken, Amory Lovins and L. Hunter Lovins (2008)
 - _Eating the Dinosaur_ by Chuck Klosterman (2009)
 - _The High Road_ by Terry Fallis (2010)
@@ -135,7 +131,6 @@ permalink: /reading/
 - _How We Decide_ by Jonah Lehrer (2009)
 
 ### 2009
-
 - _Amusing Ourselves to Death: public discourse in the age of show business_ by Neil Postman (2006)
 - _Homage to Catalonia_ by George Orwell (1986)
 - _Unbuilt Toronto: a history of the city that might have been_ by Mark Osbaldeston (2008)
@@ -152,7 +147,6 @@ permalink: /reading/
 - _Our Man in Havana_ by Graham Greene (1958)
 
 ### 2008
-
 _(There are more I just didn’t keep very good track of them.)_
 
 - _Homage to Barcelona_ by Colm Tóibín (2002)
@@ -161,7 +155,6 @@ _(There are more I just didn’t keep very good track of them.)_
 - _Down and Out in the Magic Kingdom_ by Cory Doctorow (2003)
 
 ### 2007
-
 - _The New City: How the Crisis in Canada’s Urban Centres is Reshaping the Nation_ by John Lorinc (2006)
 - _The City of Words_ by Alberto Manguel (2007)
 - _Microserfs_ by Douglas Coupland (1995)
@@ -170,7 +163,6 @@ _(There are more I just didn’t keep very good track of them.)_
 - _The Sun Also Rises_ by Ernest Hemingway (1926)
 
 ### 2006
-
 - _Collapse_ by Jared Diamond (2005)
 - _How to Save the World in Your Spare Time_ by Elizabeth May (2006)
 - _Dr. Jekyll and Mr. Hyde_ by Robert Louis Stevenson (1886)
@@ -192,7 +184,6 @@ _(There are more I just didn’t keep very good track of them.)_
 - _Small Things Considered_ by Henry Petroski (2003)
 
 ### 2005
-
 - _A Short History of Progress_ by Ronald Wright (2004)
 - _Accidental City_ by Robert Fulford (1996)
 - _Neither Here Nor There_ by Bill Bryson (1993)
@@ -217,7 +208,6 @@ _(There are more I just didn’t keep very good track of them.)_
 - _Fahrenheit 451_ – Ray Bradbury (1953)
 
 ### 2004
-
 - _The Catcher in the Rye_ by J. D. Salinger (1951)
 - _A Short History of Nearly Everything_ by Bill Bryson (2003)
 - _Fuzzy Logic: Dispatches from the Information Revolution_ by Matthew Friedman (1998)
@@ -233,7 +223,6 @@ _(There are more I just didn’t keep very good track of them.)_
 - _Life of Pi_ by Yann Martel (2001)
 
 ### 2003
-
 - _Dracula_ by Bram Stoker (1897)
 - _In the Skin of a Lion_ by Michael Ondaatje (1987)
 - _Brave New World_ by Aldous Huxley (1932)
@@ -246,7 +235,6 @@ _(There are more I just didn’t keep very good track of them.)_
 - _Fried Green Tomatoes at the Whistle Stop Cafe_ by Fannie Flagg (1987)
 
 ### Other time
-
 - _Banker to the Poor: micro-lending and the battle against world poverty_ by Muhammad Yunus (1999)
 - _Davita’s Harp_ by Chaim Potok (1985)
 - _The Day of the Jackal_ by Frederick Forsyth (1971)

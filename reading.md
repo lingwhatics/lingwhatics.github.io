@@ -7,6 +7,8 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2016
+- _A Burglar's Guide to the City_ by Geoff Manaugh (2015)
+- _The Road to Little Dribbling: More Notes From a Small Island_ by Bill Bryson (2015)
 - _Rio de Janeiro: Extreme City_ by Luiz Eduardo Soares, Anthony Doyle (Translator) (2016)
 - _Success and Luck: Good Fortune and the Myth of Meritocracy_ by Robert H. Frank (2016)
 - _Arcadian Adventures with the Idle Rich_ by Stephen Leacock (1914)

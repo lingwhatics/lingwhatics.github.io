@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2016
+- _The Maltese Falcon_ by Dashiell Hammett (1930)
 - _A Burglar's Guide to the City_ by Geoff Manaugh (2015)
 - _The Road to Little Dribbling: More Notes From a Small Island_ by Bill Bryson (2015)
 - _Rio de Janeiro: Extreme City_ by Luiz Eduardo Soares, Anthony Doyle (Translator) (2016)

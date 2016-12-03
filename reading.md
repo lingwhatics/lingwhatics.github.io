@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2016
+- _The Lonely City: Adventures in the Art of Being Alone_ by Olivia Laing (2016)
 - _Fifth Business_ by Robertson Davies (1970)
 - _The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America_ by Erik Larson (2004)
 - _The Maltese Falcon_ by Dashiell Hammett (1930)

@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2016
+- _Invisible Cities_ by Italo Calvino, William Weaver (translator) (1972)
 - _The Manticore_ by Robertson Davies (1972)
 - _The Lonely City: Adventures in the Art of Being Alone_ by Olivia Laing (2016)
 - _Fifth Business_ by Robertson Davies (1970)

@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2016
+- _Fermat's Enigma: The Epic Quest to Solve the World's Greatest Mathematical Problem_ by Simon Singh (1997)
 - _Invisible Cities_ by Italo Calvino, William Weaver (translator) (1972)
 - _The Manticore_ by Robertson Davies (1972)
 - _The Lonely City: Adventures in the Art of Being Alone_ by Olivia Laing (2016)

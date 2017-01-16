@@ -6,6 +6,9 @@ permalink: /reading/
 
 ## Books I have been reading
 
+### 2017
+- _Scrappy Little Nobody_ by Anna Kendrick (2016)
+
 ### 2016
 - _Fermat's Enigma: The Epic Quest to Solve the World's Greatest Mathematical Problem_ by Simon Singh (1997)
 - _Invisible Cities_ by Italo Calvino, William Weaver (translator) (1972)

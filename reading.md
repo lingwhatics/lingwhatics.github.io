@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2017
+- _Photobooth: A Biography_ by Meags Fitzgerald (2014)
 - _Scrappy Little Nobody_ by Anna Kendrick (2016)
 
 ### 2016

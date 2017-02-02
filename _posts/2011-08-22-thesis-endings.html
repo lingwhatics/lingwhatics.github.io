@@ -1,0 +1,20 @@
+---
+layout: post
+title: Thesis endings
+date: 2011-08-22 23:23:03.000000000 -04:00
+type: post
+published: true
+status: publish
+categories:
+- school
+tags:
+- LaTeX
+- thesis
+meta:
+  _edit_last: '20217903'
+  _wpas_done_twitter: '1'
+
+---
+<p>Tonight, I solved a couple lingering problems with the formatting of my thesis. I noticed this afternoon that my Notation section did not have the correct header on the second page and instead said "Bibliography". After fixing that, I realized that the header for bibliography was different from all the other chapter headings.</p>
+<p>The bibliography header problem is fixed in the UofT Thesis Class file (ut-thesis.cls) but not if you are using the natbib package. Natbib makes the header all uppercase, which doesn't match the small caps in the rest of the thesis. Several attempts at workarounds were pursued and eventually I just made a natbibx.sty file that changed \MakeUppercase to \textsc. This solved my formatting problem and saved my sanity despite breaking something else that I had forgotten about and simply removed from the document.</p>
+<p>I am nearing the end of my Masters time. My supervisors are reviewing my draft and I will be sending it off for review by my data providers soon. Then a presentation and submission before I'll be finished.</p>

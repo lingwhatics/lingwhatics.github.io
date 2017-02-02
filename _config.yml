@@ -6,13 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Daley Codes
+title: Daley's blog
 author: Daley Mikalson
 email: hi@daleym.ca
 description: > # this means to ignore newlines until "baseurl:"
-  I am a civil engineer and though I dabbled with coding in university did not ever use it effectively until grad school. This site is for posting about coding projects and other learning activities.
-baseurl: "" # the subpath of your site, e.g. /blog
-paginate: 3
+  Daley's blog where he writes stuff
+url: http://daleym.ca/
+baseurl: / # the subpath of your site, e.g. /blog
+paginate: 7
 twitter_username: lingwhatics
 github_username:  lingwhatics
 

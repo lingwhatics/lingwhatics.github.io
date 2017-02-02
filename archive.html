@@ -1,0 +1,26 @@
+---
+layout: page
+title: Posts
+permalink: /posts/
+---
+
+	<ul class="posts">
+	
+	  {% for post in site.posts %}
+	    {% unless post.next %}
+	    
+	      <h3>{{ post.date | date: '%Y %B' }}</h3>
+	      
+	    {% else %}
+	      {% capture year %}{{ post.date | date: '%Y %B' }}{% endcapture %}
+	      {% capture nyear %}{{ post.next.date | date: '%Y %B' }}{% endcapture %}
+	      {% if year != nyear %}
+	      
+	        <h3>{{ post.date | date: '%Y %B' }}</h3>
+	        
+	      {% endif %}
+	    {% endunless %}
+	    <li>{{ post.date | date: '%d' }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
+	 

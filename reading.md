@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2017
+- _The Wealthy Renter: How to Choose Housing That Will Make You Rich_ by Alex Avery (2016)
 - _World of Wonders_ by Robertson Davies (1975)
 - _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_ by Cathy O'Neil (2016)
 - _Photobooth: A Biography_ by Meags Fitzgerald (2014)

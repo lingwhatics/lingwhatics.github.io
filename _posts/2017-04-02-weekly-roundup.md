@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly roundup March 27 - April 2
-date: 2017-04-02 11:12.000000000 -05:00
+date: 2017-04-02 14:05.000000000 -05:00
 type: post
 published: true
 status: publish
@@ -13,6 +13,8 @@ tags: []
 ### Articles/Columns
 
 [The Psychology of Packing](https://sdrtraveller.com/blogs/field-notes/the-psychology-of-packing "The Psychology of Packing") *SDR Traveller*
+
+[Ontario a free-trade champion? More like a victim of protectionism](http://news.nationalpost.com/full-comment/chris-selley-ontario-a-free-trade-champion-more-like-a-victim-of-protectionism "Chris Selley: Ontario a free-trade champion? More like a victim of protectionism") *National Post*
 
 [Water pricing and bottling plants](http://sciblogs.co.nz/the-dismal-science/2017/03/27/water-pricing-bottling/ "Water pricing and bottling plants. By Eric Crampton") *Sciblogs*
 

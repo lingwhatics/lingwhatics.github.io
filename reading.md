@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2017
+- _Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness_ by Nathanael Johnson (2016)
 - _Frontier City: Toronto on the Verge of Greatness_ by Shawn Micallef (2017)
 - _This Is a Book About the Kids in the Hall_ by John Semley (2016)
 - _The Maintenance of Headway_ by Magnus Mills (2009)

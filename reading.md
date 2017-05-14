@@ -7,6 +7,8 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2017
+- _The Revenge of Analog: Real Things and Why They Matter_ by David Sax (2016)
+- _But What If We're Wrong?: Thinking About the Present As If It Were the Past_ by Chuck Klosterman (2016)
 - _Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness_ by Nathanael Johnson (2016)
 - _Frontier City: Toronto on the Verge of Greatness_ by Shawn Micallef (2017)
 - _This Is a Book About the Kids in the Hall_ by John Semley (2016)

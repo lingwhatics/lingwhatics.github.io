@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly roundup May 22-28
-date: 2017-05-27 11:24.000000000 -05:00
+date: 2017-05-28 11:24.000000000 -05:00
 type: post
 published: true
 status: publish

@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2017
+- _Solitude: A Singular Life in a Crowded World_ by Michael Harris (2017)
 - _Take Us To Your Chief And Other Stories_ by Drew Hayden Taylor (2016)
 - _Underground Airlines_ by Ben H. Winters (2016)
 - _Time Travel: A History_ by James Gleick (2016)

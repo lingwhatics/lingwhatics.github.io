@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2017
+- _Literary Lapses_ by Stephen Leacock (1910)
 - _The First Tycoon_ by T.J. Stiles (2009)
 - _Solitude: A Singular Life in a Crowded World_ by Michael Harris (2017)
 - _Take Us To Your Chief And Other Stories_ by Drew Hayden Taylor (2016)

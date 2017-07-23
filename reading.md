@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reading
-# permalink: /reading/
+#permalink: /reading/
 ---
 
 ## Books I have been reading

@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2017
+- _Discovering Prices: Auction Design in Markets with Complex Constraints_ by Paul R Milgrom (2017)
 - _The Organized Mind: Thinking Straight in the Age of Information Overload_ by Daniel J. Levitin (2014)
 - _Literary Lapses_ by Stephen Leacock (1910)
 - _The First Tycoon_ by T.J. Stiles (2009)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly roundup August 14 - 20
-date: 2017-08-19
+date: 2017-08-20
 type: post
 published: true
 status: publish

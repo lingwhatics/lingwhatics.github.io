@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2017
+- _The War of the End of the World_ by Mario Vargas Llosa (1981)
 - _Brazil: The Troubled Rise of a Global Power_ by Michael Reid (2014)
 - _Discovering Prices: Auction Design in Markets with Complex Constraints_ by Paul R Milgrom (2017)
 - _The Organized Mind: Thinking Straight in the Age of Information Overload_ by Daniel J. Levitin (2014)

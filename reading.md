@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2017
+- _Expecting Better_ by Emily Oster (2013)
 - _The Last Lecture_ by Randy Pausch, Jeffrey Zaslow (contributor) (2008)
 - _Amusing Ourselves to Death: public discourse in the age of show business_ by Neil Postman (1985)
 - _The War of the End of the World_ by Mario Vargas Llosa (1981)

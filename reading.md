@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2017
+- _Sex Criminals, Vol. 3: Three the Hard Way_ by Matt Fraction, Chip Zdarsky (Artist) (2016)
 - _Expecting Better_ by Emily Oster (2013)
 - _The Last Lecture_ by Randy Pausch, Jeffrey Zaslow (contributor) (2008)
 - _Amusing Ourselves to Death: public discourse in the age of show business_ by Neil Postman (1985)

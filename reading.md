@@ -7,6 +7,9 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2017
+- _Atlantic Hotel_ by João Gilberto Noll, Adam Morris (Translator) (Translation 2017, Original 1986)
+- _Wedding Toasts I'll Never Give_ by Ada Calhoun (2017)
+- _The Postman Always Rings Twice_ by James M. Cain (1934)
 - _Travels with Myself and Another: A Memoir_ by Martha Gellhorn (1979)
 - _Sex Criminals, Vol. 4: Fourgy!_ by Matt Fraction, Chip Zdarsky (Contributor) (2017)
 - _Sex Criminals, Vol. 3: Three the Hard Way_ by Matt Fraction, Chip Zdarsky (Artist) (2016)

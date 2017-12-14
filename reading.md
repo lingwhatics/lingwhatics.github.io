@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2017
+- _Food: A Love Story_ by Jim Gaffigan (2014)
 - _Atlantic Hotel_ by João Gilberto Noll, Adam Morris (Translator) (Translation 2017 / Original 1986)
 - _Wedding Toasts I'll Never Give_ by Ada Calhoun (2017)
 - _The Postman Always Rings Twice_ by James M. Cain (1934)

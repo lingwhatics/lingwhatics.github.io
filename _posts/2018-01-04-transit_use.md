@@ -24,7 +24,7 @@ Presto                 217  642.00
 Tokens                   2    6.00
 ```
 
-My rides were paid for using: Day Passes (38), Tokens (2), Presto (217), and other (4).
+My rides were paid for using: Day Passes (38), Tokens (2), Presto (217), and other (4). Presto cost is less than $3 per ride because some transfers by Presto would have been counted as separate rides using tokens.
 
 ![Rides by Day of Week]({{ site.url }}/images/2018-01-04_transit_post/day of week-1.png)<!-- -->
 

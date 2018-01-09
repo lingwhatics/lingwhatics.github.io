@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2018
+- _The Time Machine_ by H.G. Wells (1895)
 
 ### 2017
 - _Food: A Love Story_ by Jim Gaffigan (2014)

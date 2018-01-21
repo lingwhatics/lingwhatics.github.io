@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2018
+- _Thanks for the Feedback: The Science and Art of Receiving Feedback Well_ by Douglas Stone, Sheila Heen (2014)
 - _The Time Machine_ by H.G. Wells (1895)
 
 ### 2017

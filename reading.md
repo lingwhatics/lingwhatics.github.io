@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2018
+- _Worry-Free Money: The guilt-free approach to managing your money and your life_ by Shannon Lee Simmons (2017)
 - _The Gentle Art of Swedish Death Cleaning: How to Make Your Loved Ones' Lives Easier and Your Own Life More Pleasant_ by Margareta Magnusson (2017)
 - _Scarborough_ by Catherine Hernandez (2017)
 - _Thanks for the Feedback: The Science and Art of Receiving Feedback Well_ by Douglas Stone, Sheila Heen (2014)

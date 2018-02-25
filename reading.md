@@ -7,6 +7,8 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2018
+- _Snacks: A Canadian Food History_ by Janis Thiessen (2017)
+- _Saga, Vol. 1 (Saga #1)_ by Brian K. Vaughan (Writer), Fiona Staples (Artist) (2012)
 - _Worry-Free Money: The guilt-free approach to managing your money and your life_ by Shannon Lee Simmons (2017)
 - _The Gentle Art of Swedish Death Cleaning: How to Make Your Loved Ones' Lives Easier and Your Own Life More Pleasant_ by Margareta Magnusson (2017)
 - _Scarborough_ by Catherine Hernandez (2017)

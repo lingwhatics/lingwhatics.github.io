@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2018
+- _Baseball Life Advice_ by Stacey May Fowles (2017)
 - _Out on the Wire: Uncovering the Secrets of Radio's New Masters of Story with Ira Glass_ by Jessica Abel (2015)
 - _Snacks: A Canadian Food History_ by Janis Thiessen (2017)
 - _Saga, Vol. 1 (Saga #1)_ by Brian K. Vaughan (Writer), Fiona Staples (Artist) (2012)

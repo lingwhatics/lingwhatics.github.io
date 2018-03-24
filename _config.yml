@@ -19,5 +19,5 @@ github_username:  lingwhatics
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
    - jekyll-paginate

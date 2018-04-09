@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2018
+- _One Day We’ll All Be Dead and None of This Will Matter_ by Scaachi Koul (2017)
 - _La Perdida_ by Jessica Abel (2002)
 - _Maximum Canada: Why 35 Million Canadians Are Not Enough_ by Doug Saunders (2017)
 - _Baseball Life Advice_ by Stacey May Fowles (2017)

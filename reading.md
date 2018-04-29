@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2018
+- _Vacationland: True Stories from Painful Beaches_ by John Hodgman (2017)
 - _Breakfast at Tiffany's_ by Truman Capote (1958)
 - _One Day We’ll All Be Dead and None of This Will Matter_ by Scaachi Koul (2017)
 - _La Perdida_ by Jessica Abel (2002)

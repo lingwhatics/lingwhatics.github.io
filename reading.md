@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2018
+- _Boys: What It Means to Become a Man in the 21st Century_ by Rachel Giese (2018)
 - _The Good Immigrant_ by Nikesh Shukla (Editor), Varaidzo, Chimene Suleyman, Vera Chok, Daniel York Loh, Himesh Patel, Nish Kumar, Reni Eddo-Lodge , Wei Ming Kam, Darren Chetty, Kieran Yates, Coco Khan, Inua Ellams, Sabrina Mahfouz, Riz Ahmed, Sarah Sahim, Salena Godden, Miss L., Bim Adewunmi, Vinay Patel, Musa Okwonga (2016)
 - _Vacationland: True Stories from Painful Beaches_ by John Hodgman (2017)
 - _Breakfast at Tiffany's_ by Truman Capote (1958)

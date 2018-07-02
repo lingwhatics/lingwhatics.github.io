@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2018
+- _The Shoe on the Roof_ by Will Ferguson (2017)
 - _The Undoing Project: A Friendship That Changed Our Minds_ by Michael Lewis (2016)
 - _Boys: What It Means to Become a Man in the 21st Century_ by Rachel Giese (2018)
 - _The Good Immigrant_ by Nikesh Shukla (Editor), Varaidzo, Chimene Suleyman, Vera Chok, Daniel York Loh, Himesh Patel, Nish Kumar, Reni Eddo-Lodge , Wei Ming Kam, Darren Chetty, Kieran Yates, Coco Khan, Inua Ellams, Sabrina Mahfouz, Riz Ahmed, Sarah Sahim, Salena Godden, Miss L., Bim Adewunmi, Vinay Patel, Musa Okwonga (2016)

@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2018
+- _Next Year, for Sure: A Novel_ by Zoey Leigh Peterson (2017)
 - _The Shoe on the Roof_ by Will Ferguson (2017)
 - _The Undoing Project: A Friendship That Changed Our Minds_ by Michael Lewis (2016)
 - _Boys: What It Means to Become a Man in the 21st Century_ by Rachel Giese (2018)

@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2018
+- _How to Talk to Girls at Parties_ by Neil Gaiman (Goodreads Author) (Writer), Fábio Moon (Adaptation, Art, & Lettering), Gabriel Bá (Adaptation, Art, & Lettering) (2016)
 - _Next Year, for Sure: A Novel_ by Zoey Leigh Peterson (2017)
 - _The Shoe on the Roof_ by Will Ferguson (2017)
 - _The Undoing Project: A Friendship That Changed Our Minds_ by Michael Lewis (2016)

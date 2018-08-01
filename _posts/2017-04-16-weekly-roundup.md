@@ -16,9 +16,9 @@ tags: []
 
 [Lessons from the Largest Law-Firm Implosion in Canadian History](https://thewalrus.ca/lessons-from-the-largest-law-firm-implosion-in-canadian-history/ "Lessons from the Largest Law-Firm Implosion in Canadian History. By Jonathan Kay") *The Walrus*
 
-[Scowly Liberals legalize the demon weed](http://www.macleans.ca/politics/ottawa/scowly-liberals-legalize-the-demon-weed/ "Scowly Liberals legalize the demon weed. By Paul Wells") *Maclean's*
+[Scowly Liberals legalize the demon weed](https://www.macleans.ca/politics/ottawa/scowly-liberals-legalize-the-demon-weed/ "Scowly Liberals legalize the demon weed. By Paul Wells") *Maclean's*
 
-[Radical tax reform is in the wind — here’s how to make it efficient and fair](http://news.nationalpost.com/full-comment/andrew-coyne-radical-tax-reform-is-in-the-wind-heres-how-to-make-it-efficient-and-fair "Andrew Coyne: Radical tax reform is in the wind — here’s how to make it efficient and fair") *National Post*
+[Radical tax reform is in the wind — here’s how to make it efficient and fair](https://news.nationalpost.com/full-comment/andrew-coyne-radical-tax-reform-is-in-the-wind-heres-how-to-make-it-efficient-and-fair "Andrew Coyne: Radical tax reform is in the wind — here’s how to make it efficient and fair") *National Post*
 
 ### Tweet
 

@@ -22,7 +22,7 @@ I cooked and baked some new things:
 
 I read a bunch of good books ([see my goodreads page](https://www.goodreads.com/user_challenges/7051873 "2017 books"))
 
-I made fewer contributions to the Open Street Map, but kept up some [Missing Maps](http://www.missingmaps.org "Missing Maps") tasks, [HOT tasks](http://tasks.hotosm.org "Humanitarian OpenStreetMaps Team task manager") and random additions to Brazil. See [where I have been mapping](http://yosmhm.neis-one.org/?dalmond "Daley's OSM heat map") and zoom in to see the areas in more detail.
+I made fewer contributions to the Open Street Map, but kept up some [Missing Maps](https://www.missingmaps.org "Missing Maps") tasks, [HOT tasks](https://tasks.hotosm.org "Humanitarian OpenStreetMaps Team task manager") and random additions to Brazil. See [where I have been mapping](https://yosmhm.neis-one.org/?dalmond "Daley's OSM heat map") and zoom in to see the areas in more detail.
 
 My favorite photos that I took:
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/dalmond/33487348752/in/dateposted-public/" title="Foggy Landing"><img src="https://farm4.staticflickr.com/3788/33487348752_4ee3461fa8_c.jpg" width="600" height="800" alt="Foggy Landing"></a>

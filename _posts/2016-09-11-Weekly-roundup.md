@@ -10,13 +10,13 @@ tags: []
 ---
 ### Articles/Columns
 
-[Brentwood residents angry that city is trying to plant trees in local park](http://www.cbc.ca/beta/news/canada/calgary/brentwood-trees-resistance-1.3749219 "Brentwood residents angry that city is trying to plant trees in local park. By Drew Anderson") *CBC*
+[Brentwood residents angry that city is trying to plant trees in local park](https://www.cbc.ca/beta/news/canada/calgary/brentwood-trees-resistance-1.3749219 "Brentwood residents angry that city is trying to plant trees in local park. By Drew Anderson") *CBC*
 
-[Gatwick to build world's first airport energy-from-waste facility](http://www.edie.net/news/5/Gatwick-to-build-world-s-first-airport-energy-from-waste-facility/ "Gatwick to build world's first airport energy-from-waste facility") *edie.net*
+[Gatwick to build world's first airport energy-from-waste facility](https://www.edie.net/news/5/Gatwick-to-build-world-s-first-airport-energy-from-waste-facility/ "Gatwick to build world's first airport energy-from-waste facility") *edie.net*
 
 [Tightening the election donation law some more wouldn’t hurt: Wells](https://www.thestar.com/news/canada/2016/09/09/wells.html "Tightening the election donation law some more wouldn’t hurt: Paul Wells") *Toronto Star*
 
-[A Quadruple Take on the Giraffe: There are Four Species, Not One](http://www.nytimes.com/2016/09/09/science/a-quadruple-take-on-the-giraffe-its-four-species-not-one.html?_r=0 "A Quadruple Take on the Giraffe: There are Four Species, Not One. By Nicholas St. Fleur") *The New York Times*
+[A Quadruple Take on the Giraffe: There are Four Species, Not One](https://www.nytimes.com/2016/09/09/science/a-quadruple-take-on-the-giraffe-its-four-species-not-one.html?_r=0 "A Quadruple Take on the Giraffe: There are Four Species, Not One. By Nicholas St. Fleur") *The New York Times*
 
 ### Tweets
 

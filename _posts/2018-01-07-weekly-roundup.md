@@ -12,11 +12,11 @@ tags: []
 
 ### Articles/Columns
 
-[At 53, Illinois accountant skating for a spot on U.S. Olympic long-track team](http://www.chicagotribune.com/sports/international/ct-spt-olympics-speedskating-theron-sands-20180103-story.html "At 53, Illinois accountant skating for a spot on U.S. Olympic long-track team. By Shannon Ryan") *Chicago Tribune*
+[At 53, Illinois accountant skating for a spot on U.S. Olympic long-track team](https://www.chicagotribune.com/sports/international/ct-spt-olympics-speedskating-theron-sands-20180103-story.html "At 53, Illinois accountant skating for a spot on U.S. Olympic long-track team. By Shannon Ryan") *Chicago Tribune*
 
-[How Canada fits into Rex Tillerson’s plan for North Korea](http://www.macleans.ca/politics/ottawa/why-tillerson-is-courting-sending-states-and-why-canada-is-one-of-them/ "How Canada fits into Rex Tillerson’s plan for North Korea. By Paul Wells") *Maclean's*
+[How Canada fits into Rex Tillerson’s plan for North Korea](https://www.macleans.ca/politics/ottawa/why-tillerson-is-courting-sending-states-and-why-canada-is-one-of-them/ "How Canada fits into Rex Tillerson’s plan for North Korea. By Paul Wells") *Maclean's*
 
-[“Prexit”: Latin America’s Real 2018 Dilemma](http://www.americasquarterly.org/content/prexit-latin-americas-real-2018-dilemma "“Prexit”: Latin America’s Real 2018 Dilemma. By Javier Corrales") *Americas Quarterly*
+[“Prexit”: Latin America’s Real 2018 Dilemma](https://www.americasquarterly.org/content/prexit-latin-americas-real-2018-dilemma "“Prexit”: Latin America’s Real 2018 Dilemma. By Javier Corrales") *Americas Quarterly*
 
 ### Tweet
 

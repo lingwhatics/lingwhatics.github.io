@@ -16,9 +16,9 @@ tags: []
 
 ^ I do miss living in an apartment building. A house has some advantages, such as in unit laundry, a regular size fridge and a (nearly) full size oven. But renting a house is not the same because most of the neighbours own and aren't going anywhere. There isn't the curiosity of new people moving in across the hall.
 
-[Calculation was the price we used to have to pay to do mathematics](http://devlinsangle.blogspot.com/2018/05/calculation-was-price-we-used-to-have.html "Calculation was the price we used to have to pay to do mathematics. By Keith Devlin") *Devlin's Angle*
+[Calculation was the price we used to have to pay to do mathematics](https://devlinsangle.blogspot.com/2018/05/calculation-was-price-we-used-to-have.html "Calculation was the price we used to have to pay to do mathematics. By Keith Devlin") *Devlin's Angle*
 
-[Toronto chose cheap parking over car sharing, so maybe it’s time for a vanner revolution](http://signaltoronto.com/toronto-chose-cheap-parking-over-car-sharing-so-maybe-its-time-for-a-vanner-revolution/ "Toronto chose cheap parking over car sharing, so maybe it’s time for a vanner revolution. By Matt Elliott") *Signal Toronto*
+[Toronto chose cheap parking over car sharing, so maybe it’s time for a vanner revolution](https://signaltoronto.com/toronto-chose-cheap-parking-over-car-sharing-so-maybe-its-time-for-a-vanner-revolution/ "Toronto chose cheap parking over car sharing, so maybe it’s time for a vanner revolution. By Matt Elliott") *Signal Toronto*
 
 [Fear and Trembling in Las Vegas](https://hazlitt.net/longreads/fear-and-trembling-las-vegas "Fear and Trembling in Las Vegas. By Tara Isabella Burton") *Hazlitt*
 

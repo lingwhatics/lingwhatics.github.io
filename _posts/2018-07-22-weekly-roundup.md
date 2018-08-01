@@ -12,7 +12,7 @@ tags: []
 
 ### Articles/Columns
 
-[A Model for Agility in the Public Sector](http://www.governing.com/columns/smart-mgmt/col-model-agility-urban-search-rescue-task-forces.html "A Model for Agility in the Public Sector. By Russ Linden") *Governing*
+[A Model for Agility in the Public Sector](https://www.governing.com/columns/smart-mgmt/col-model-agility-urban-search-rescue-task-forces.html "A Model for Agility in the Public Sector. By Russ Linden") *Governing*
 
 [You’re never too old to become fluent in a foreign languag](https://theconversation.com/youre-never-too-old-to-become-fluent-in-a-foreign-language-96293 "You’re never too old to become fluent in a foreign languag. By Monika Schmidt") *The Conversation*
 

@@ -16,7 +16,7 @@ tags: []
 
 [Brazil’s sordid tale of beef and bribes](https://www.theglobeandmail.com/report-on-business/international-business/latin-american-business/brazil-jbs-michael-temer-bribery-scandal/article35108221/ "Brazil’s sordid tale of beef and bribes. By Stephanie Nolen") *The Globe and Mail*
 
-[A Better Sounding Subway](http://www.wnyc.org/story/better-sounding-subway/ "A Better Sounding Subway. By Stephen Nessen") *WNYC*
+[A Better Sounding Subway](https://www.wnyc.org/story/better-sounding-subway/ "A Better Sounding Subway. By Stephen Nessen") *WNYC*
 
 ### Tweet
 

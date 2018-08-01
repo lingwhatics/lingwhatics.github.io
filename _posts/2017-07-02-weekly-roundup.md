@@ -12,9 +12,9 @@ tags: []
 
 ### Articles/Columns
 
-[How a New Program Is Cutting the 'Brazil Cost' for Entrepreneurs](http://www.americasquarterly.org/node/8884 "How a New Program Is Cutting the 'Brazil Cost' for Entrepreneurs. By Anna Jean Kaiser") *Americas Quarterly*
+[How a New Program Is Cutting the 'Brazil Cost' for Entrepreneurs](https://www.americasquarterly.org/node/8884 "How a New Program Is Cutting the 'Brazil Cost' for Entrepreneurs. By Anna Jean Kaiser") *Americas Quarterly*
 
-[Facile 'Canada 150' celebration deserves to be disrupted](http://nationalpost.com/opinion/chris-selley-facile-canada-150-celebration-deserves-to-be-disrupted/wcm/def46b30-60f5-4958-805c-dc52feef0b28 "Chris Selley: Facile 'Canada 150' celebration deserves to be disrupted") *National Post*
+[Facile 'Canada 150' celebration deserves to be disrupted](https://nationalpost.com/opinion/chris-selley-facile-canada-150-celebration-deserves-to-be-disrupted/wcm/def46b30-60f5-4958-805c-dc52feef0b28 "Chris Selley: Facile 'Canada 150' celebration deserves to be disrupted") *National Post*
 
 [The Deserted Stone Quarry Of Canada’s Parliament Buildings](https://ottawarewind.com/2017/06/28/finding-the-forgotten-quarry-of-canadas-parliament-buildings/ "The Deserted Stone Quarry Of Canada’s Parliament Buildings. By Andrew King") *Ottawa Rewind*
 

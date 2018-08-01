@@ -17,7 +17,7 @@ tags: []
 
 [How Tiny Red Dots Took Over Your Life](https://www.nytimes.com/2018/02/27/magazine/red-dots-badge-phones-notification.html "How Tiny Red Dots Took Over Your Life. By John Herrman") *The New York Times Magazine*
 
-[The Curious Case Of Omar Linares](http://toronto.locals.baseballprospectus.com/2018/03/05/the-curious-case-of-omar-linares/ "The Curious Case Of Omar Linares. By Rachael Mcdaniel") *Baseball Prospectus Toronto*
+[The Curious Case Of Omar Linares](https://toronto.locals.baseballprospectus.com/2018/03/05/the-curious-case-of-omar-linares/ "The Curious Case Of Omar Linares. By Rachael Mcdaniel") *Baseball Prospectus Toronto*
 
 ### Tweet
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Despite losing democracy to data mining, my phone still doesn&#39;t ask, &quot;This friend frequently cancels last minute. Are you sure you want to make plans? Y/N?&quot;</p>&mdash; Corey Mintz (@coreymintz) <a href="https://twitter.com/coreymintz/status/979687446416904193?ref_src=twsrc%5Etfw">March 30, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

@@ -12,13 +12,13 @@ tags: []
 
 ### Articles/Columns
 
-[The Capital Builders: Joseph Merrill Currier gave us 24 Sussex Drive](http://ottawacitizen.com/news/politics/the-capital-builders-joseph-merrill-currier-gave-us-24-sussex-drive "The Capital Builders: Joseph Merrill Currier gave us 24 Sussex Drive. By Kady O'Malley") *Ottawa Citizen*
+[The Capital Builders: Joseph Merrill Currier gave us 24 Sussex Drive](https://ottawacitizen.com/news/politics/the-capital-builders-joseph-merrill-currier-gave-us-24-sussex-drive "The Capital Builders: Joseph Merrill Currier gave us 24 Sussex Drive. By Kady O'Malley") *Ottawa Citizen*
 
-[How I Decide Who Gets Banned on OkCupid](http://nymag.com/thecut/2017/02/banned-from-okcupid-sexting-moderation.html "How I Decide Who Gets Banned on OkCupid. By Dale Markowitz") *The Cut*
+[How I Decide Who Gets Banned on OkCupid](https://nymag.com/thecut/2017/02/banned-from-okcupid-sexting-moderation.html "How I Decide Who Gets Banned on OkCupid. By Dale Markowitz") *The Cut*
 
 [Greg Devorski details life as NHL linesman](https://www.nhl.com/news/nhl-linesman-greg-devorski-talks-life-of-a-referee/c-286431142 "Greg Devorski details life as NHL linesman. By Tim Campbell") *NHL.com*
 
-[An Ivy League professor who spent 4 months working in a South Bronx check-cashing store says we're getting it all wrong](http://www.businessinsider.com/check-cashing-stores-good-deal-upenn-professor-2017-2 "An Ivy League professor who spent 4 months working in a South Bronx check-cashing store says we're getting it all wrong. By Alex Morrell") *Business Insider*
+[An Ivy League professor who spent 4 months working in a South Bronx check-cashing store says we're getting it all wrong](https://www.businessinsider.com/check-cashing-stores-good-deal-upenn-professor-2017-2 "An Ivy League professor who spent 4 months working in a South Bronx check-cashing store says we're getting it all wrong. By Alex Morrell") *Business Insider*
 
 ### Tweet 
 

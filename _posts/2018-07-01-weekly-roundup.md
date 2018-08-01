@@ -13,7 +13,7 @@ tags: []
 ### Articles/Columns
 
 [Maine Tests a New Way of Voting, and Opts to Keep It
-](http://www.governing.com/topics/politics/gov-maine-ranked-choice-voting-primary.html "Maine Tests a New Way of Voting, and Opts to Keep It. By Daniel C. Vock") *Governing*
+](https://www.governing.com/topics/politics/gov-maine-ranked-choice-voting-primary.html "Maine Tests a New Way of Voting, and Opts to Keep It. By Daniel C. Vock") *Governing*
 
 [The economics of Love Island: how game theory explains 'coupling up'](https://www.telegraph.co.uk/tv/0/economics-love-island-game-theory-explains-coupling/ "The economics of Love Island: how game theory explains 'coupling up'. By Alex Teytelboym") *The Telegraph*
 

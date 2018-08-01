@@ -11,7 +11,7 @@ tags: []
 ---
 
 ### Articles/Columns
-[Why we should talk about masculinity more often](http://www.macleans.ca/opinion/why-we-should-talk-about-masculinity-more-often/ "Why we should talk about masculinity more often. By Tabatha Southey") *Maclean's*
+[Why we should talk about masculinity more often](https://www.macleans.ca/opinion/why-we-should-talk-about-masculinity-more-often/ "Why we should talk about masculinity more often. By Tabatha Southey") *Maclean's*
 
 [Why Paper Jams Persist](https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist "Why Paper Jams Persist. By Joshua Rothman") *The New Yorker*
 

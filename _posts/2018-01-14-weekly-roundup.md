@@ -12,7 +12,7 @@ tags: []
 
 ### Articles/Columns
 
-[Four Reasons for Brazil’s Credit Dysfunction – and How to Fix It](http://americasquarterly.org/content/four-reasons-brazils-credit-dysfunction-and-how-fix-it-0 "Four Reasons for Brazil’s Credit Dysfunction – and How to Fix It. By Rodrigo Zeidan") *Americas Quarterly*
+[Four Reasons for Brazil’s Credit Dysfunction – and How to Fix It](https://americasquarterly.org/content/four-reasons-brazils-credit-dysfunction-and-how-fix-it-0 "Four Reasons for Brazil’s Credit Dysfunction – and How to Fix It. By Rodrigo Zeidan") *Americas Quarterly*
 
 [How to Build a Better Tree](https://thewalrus.ca/how-to-build-a-better-tree/ "How to Build a Better Tree. By Andrew Reeves") *The Walrus*
 

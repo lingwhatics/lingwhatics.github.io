@@ -12,7 +12,7 @@ tags: []
 
 ### Articles/Columns
 
-[São Paulo to Addis Ababa: A Revealing Journey](http://www.americasquarterly.org/node/9443 "São Paulo to Addis Ababa: A Revealing Journey. By Oliver Stuenkel") *Americas Quarterly*
+[São Paulo to Addis Ababa: A Revealing Journey](https://www.americasquarterly.org/node/9443 "São Paulo to Addis Ababa: A Revealing Journey. By Oliver Stuenkel") *Americas Quarterly*
 
 [Highway of riches, road to ruin: Inside the Amazon's deforestation crisis](https://www.theglobeandmail.com/news/world/amazon-rainforest-deforestation-crisis/article37722932/ "Highway of riches, road to ruin: Inside the Amazon's deforestation crisis. By Stephanie Nolen") *The Globe and Mail*
 

@@ -16,7 +16,7 @@ tags: []
 
 [Why we fell for clean eating](https://www.theguardian.com/lifeandstyle/2017/aug/11/why-we-fell-for-clean-eating "Why we fell for clean eating. By Bee Wilson") *The Guardian*
 
-[It's Time to Face NAFTA’s Jobs Myth](http://www.americasquarterly.org/node/9107 "It's Time to Face NAFTA’s Jobs Myth. By Shannon O'Neil") *Americas Quarterly*
+[It's Time to Face NAFTA’s Jobs Myth](https://www.americasquarterly.org/node/9107 "It's Time to Face NAFTA’s Jobs Myth. By Shannon O'Neil") *Americas Quarterly*
 
 ### Tweet
 

@@ -13,7 +13,7 @@ tags: []
 ### Articles/Columns
 [Why 'Stories' Took Over Your Smartphone](https://www.theatlantic.com/technology/archive/2018/05/smartphone-stories-snapchat-instagram-facebook/559517/ "Why 'Stories' Took Over Your Smartphone. By Ian Bogost") *The Atlantic*
 
-[A (Probably) Mad King's Lasting Legacy in Patagonia](http://americasquarterly.org/content/probably-mad-kings-lasting-legacy-patagonia "A (Probably) Mad King's Lasting Legacy in Patagonia. By Mat Youkee") *Americas Quarterly*
+[A (Probably) Mad King's Lasting Legacy in Patagonia](https://americasquarterly.org/content/probably-mad-kings-lasting-legacy-patagonia "A (Probably) Mad King's Lasting Legacy in Patagonia. By Mat Youkee") *Americas Quarterly*
 
 [Minimum Alcohol Pricing is Policy-Based Evidence-Making](https://www.adamsmith.org/blog/minimum-alcohol-pricing-is-policy-based-evidence-making "Minimum Alcohol Pricing is Policy-Based Evidence-Making. By Sam Bowman") *Adam Smith Institute*
 

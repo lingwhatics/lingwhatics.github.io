@@ -14,7 +14,7 @@ tags: []
 
 [A Tesla, a homeless shelter and how the Davenport Triangle showed its true compassion](https://www.thestar.com/news/gta/2018/02/15/a-tesla-a-homeless-shelter-and-how-the-davenport-triangle-showed-its-true-compassion.html "A Tesla, a homeless shelter and how the Davenport Triangle showed its true compassion. By Shawn Micallef") *Toronto Star*
 
-[Brazil’s Black History, Uncovered](http://americasquarterly.org/content/brazils-black-history-uncovered "Brazil’s Black History, Uncovered. By Juliana Barbassa") *Americas Quarterly*
+[Brazil’s Black History, Uncovered](https://americasquarterly.org/content/brazils-black-history-uncovered "Brazil’s Black History, Uncovered. By Juliana Barbassa") *Americas Quarterly*
 
 ### Tweet
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Beautifully designed old Toronto subway bench. <a href="https://t.co/jQbOqbZ65u">pic.twitter.com/jQbOqbZ65u</a></p>&mdash; Sook-Yin Lee (@sookyinlee) <a href="https://twitter.com/sookyinlee/status/966084372154630144?ref_src=twsrc%5Etfw">February 20, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

@@ -16,7 +16,7 @@ tags: []
 
 [Too white, too black, or not black enough? This is not a question for others to decide](https://www.theguardian.com/commentisfree/2017/jun/09/too-white-too-black-or-not-black-enough-this-is-not-a-question-for-others-to-decide "Too white, too black, or not black enough? This is not a question for others to decide. By Shannan Dodson") *The Guardian*
 
-[How To Call B.S. On Big Data: A Practical Guide](http://www.newyorker.com/tech/elements/how-to-call-bullshit-on-big-data-a-practical-guide "How To Call B.S. On Big Data: A Practical Guide. By Michelle Nijhuis") *The New Yorker*
+[How To Call B.S. On Big Data: A Practical Guide](https://www.newyorker.com/tech/elements/how-to-call-bullshit-on-big-data-a-practical-guide "How To Call B.S. On Big Data: A Practical Guide. By Michelle Nijhuis") *The New Yorker*
 
 [When America Barred Italians](https://www.nytimes.com/2017/06/02/opinion/illegal-immigration-italian-americans.html "When America Barred Italians. By Helene Stapinski") *The New York Times*
 

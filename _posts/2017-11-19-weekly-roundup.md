@@ -12,11 +12,11 @@ tags: []
 
 ### Articles/Columns
 
-[Male incompetence is a subtle form of misogyny](http://metro.co.uk/2017/11/01/male-incompetence-is-a-subtle-form-of-misogyny-7046248/ "Male incompetence is a subtle form of misogyny. By Miranda Larbi") *Metro*
+[Male incompetence is a subtle form of misogyny](https://metro.co.uk/2017/11/01/male-incompetence-is-a-subtle-form-of-misogyny-7046248/ "Male incompetence is a subtle form of misogyny. By Miranda Larbi") *Metro*
 
 [The Myth of 'I'm Bad at Math'](https://www.theatlantic.com/education/archive/2013/10/the-myth-of-im-bad-at-math/280914/ "The Myth of 'I'm Bad at Math'. By Miles Kimball and Noah Smith") *The Atlantic*
 
-[When your family comes to watch you ref](http://refereetales.blogspot.ca/2017/11/when-your-family-comes-to-watch-you-ref.html "When your family comes to watch you ref") *Referee Tales*
+[When your family comes to watch you ref](https://refereetales.blogspot.ca/2017/11/when-your-family-comes-to-watch-you-ref.html "When your family comes to watch you ref") *Referee Tales*
 
 [The best laptop ever made](https://marco.org/2017/11/14/best-laptop-ever "The best laptop ever made. By Marco Arment")
 

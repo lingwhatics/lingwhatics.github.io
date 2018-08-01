@@ -12,9 +12,9 @@ tags: []
 
 ### Articles/Columns
 
-[The True Relevance of NAFTA](http://www.americasquarterly.org/node/8718 "The True Relevance of NAFTA. By Luis De La Calle") *Americas Quarterly*
+[The True Relevance of NAFTA](https://www.americasquarterly.org/node/8718 "The True Relevance of NAFTA. By Luis De La Calle") *Americas Quarterly*
 
-[Why we should be grateful to immigrants](http://timharford.com/2017/05/why-we-should-be-grateful-to-immigrants/ "Why we should be grateful to immigrants. By Tim Harford") *The Undercover Economist /  Financial Times*
+[Why we should be grateful to immigrants](https://timharford.com/2017/05/why-we-should-be-grateful-to-immigrants/ "Why we should be grateful to immigrants. By Tim Harford") *The Undercover Economist /  Financial Times*
 
 ### Tweet
 

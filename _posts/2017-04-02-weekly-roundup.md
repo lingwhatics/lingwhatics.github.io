@@ -14,9 +14,9 @@ tags: []
 
 [The Psychology of Packing](https://sdrtraveller.com/blogs/field-notes/the-psychology-of-packing "The Psychology of Packing") *SDR Traveller*
 
-[Ontario a free-trade champion? More like a victim of protectionism](http://news.nationalpost.com/full-comment/chris-selley-ontario-a-free-trade-champion-more-like-a-victim-of-protectionism "Chris Selley: Ontario a free-trade champion? More like a victim of protectionism") *National Post*
+[Ontario a free-trade champion? More like a victim of protectionism](https://news.nationalpost.com/full-comment/chris-selley-ontario-a-free-trade-champion-more-like-a-victim-of-protectionism "Chris Selley: Ontario a free-trade champion? More like a victim of protectionism") *National Post*
 
-[Water pricing and bottling plants](http://sciblogs.co.nz/the-dismal-science/2017/03/27/water-pricing-bottling/ "Water pricing and bottling plants. By Eric Crampton") *Sciblogs*
+[Water pricing and bottling plants](https://sciblogs.co.nz/the-dismal-science/2017/03/27/water-pricing-bottling/ "Water pricing and bottling plants. By Eric Crampton") *Sciblogs*
 
 [Reproducible Analytical Pipeline](https://gdsdata.blog.gov.uk/2017/03/27/reproducible-analytical-pipeline/ "Reproducible Analytical Pipeline. By Matt Upson") *[UK] Government Digital Services*
 

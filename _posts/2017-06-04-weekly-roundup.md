@@ -14,11 +14,11 @@ tags: []
 
 [A call for a progressive Toronto](https://seanmarshall.ca/2017/05/28/a-call-for-a-progressive-toronto/ "A call for a progressive Toronto. By Sean Marshall") *Marshall's Musings
 
-[The Math Gift Myth](http://devlinsangle.blogspot.ca/2017/05/the-math-gift-myth.html "The Math Gift Myth. By Keith Devlin") *Devlin's Angle*
+[The Math Gift Myth](https://devlinsangle.blogspot.ca/2017/05/the-math-gift-myth.html "The Math Gift Myth. By Keith Devlin") *Devlin's Angle*
 
 [Are Pop Lyrics Getting More Repetitive?](https://pudding.cool/2017/05/song-repetition/index.html "Are Pop Lyrics Getting More Repetitive? By Colin Morris") *The Pudding*
 
-[Meech Lake, again? How about we just don’t](http://news.nationalpost.com/full-comment/andrew-coyne-meech-lake-again-how-about-we-just-dont "Andrew Coyne: Meech Lake, again? How about we just don’t") *National Post*
+[Meech Lake, again? How about we just don’t](https://news.nationalpost.com/full-comment/andrew-coyne-meech-lake-again-how-about-we-just-dont "Andrew Coyne: Meech Lake, again? How about we just don’t") *National Post*
 
 ### Tweet
 

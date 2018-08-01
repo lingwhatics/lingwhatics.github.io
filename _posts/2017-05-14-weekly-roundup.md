@@ -12,7 +12,7 @@ tags: []
 
 ### Articles/Columns
 
-[We Need to Talk About Lula](http://americasquarterly.org/content/we-need-talk-about-lula "We Need to Talk About Lula. By Brian Winter") *Americas Quarterly*
+[We Need to Talk About Lula](https://americasquarterly.org/content/we-need-talk-about-lula "We Need to Talk About Lula. By Brian Winter") *Americas Quarterly*
 
 [At LA airport's new private terminal, the rich can watch normal people suffer](https://www.theguardian.com/world/2017/may/12/lax-private-terminal-rich-people-celebrities "At LA airport's new private terminal, the rich can watch normal people suffer. By Rory Carroll") *The Guardian*
 

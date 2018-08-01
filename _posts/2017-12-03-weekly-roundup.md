@@ -12,11 +12,11 @@ tags: []
 
 ### Articles/Columns
 
-[Breaking bread: While artisanal bakers rely on stale tradition, the innovative get fresh](http://nationalpost.com/life/food/breaking-bread-while-artisanal-bakers-rely-on-stale-tradition-the-innovative-get-fresh "Breaking bread: While artisanal bakers rely on stale tradition, the innovative get fresh. By Laura Brehaut") *National Post*
+[Breaking bread: While artisanal bakers rely on stale tradition, the innovative get fresh](https://nationalpost.com/life/food/breaking-bread-while-artisanal-bakers-rely-on-stale-tradition-the-innovative-get-fresh "Breaking bread: While artisanal bakers rely on stale tradition, the innovative get fresh. By Laura Brehaut") *National Post*
 
 [How the sandwich consumed Britain](https://www.theguardian.com/news/2017/nov/24/how-the-sandwich-consumed-britain "How the sandwich consumed Britain. By Sam Knight") *The Guardian*
 
-[Are Canada’s pot-fearing politicians raising children or goats?](http://www.macleans.ca/news/canada/are-canadas-pot-fearing-politicians-raising-children-or-goats/ "Are Canada’s pot-fearing politicians raising children or goats? By Tabatha Southey") *Maclean's*
+[Are Canada’s pot-fearing politicians raising children or goats?](https://www.macleans.ca/news/canada/are-canadas-pot-fearing-politicians-raising-children-or-goats/ "Are Canada’s pot-fearing politicians raising children or goats? By Tabatha Southey") *Maclean's*
 
 [Keepers of the Secrets](https://www.villagevoice.com/2017/09/20/keepers-of-the-secrets/ "Keepers of the Secrets. By James Somers") *The Village Voice*
 

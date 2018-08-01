@@ -12,9 +12,9 @@ tags: []
 
 ### Articles/Columns
 
-[Is NAFTA Over Now?](http://www.americasquarterly.org/node/9165 "Is NAFTA Over Now? By Eric Farnsworth") *Americas Quarterly*
+[Is NAFTA Over Now?](https://www.americasquarterly.org/node/9165 "Is NAFTA Over Now? By Eric Farnsworth") *Americas Quarterly*
 
-[Bill Morneau's actions reveal a critical lack of judgment](http://nationalpost.com/opinion/andrew-coyne-morneaus-actions-show-a-critical-lack-of-judgment "Andrew Coyne: Bill Morneau's actions reveal a critical lack of judgment") *National Post*
+[Bill Morneau's actions reveal a critical lack of judgment](https://nationalpost.com/opinion/andrew-coyne-morneaus-actions-show-a-critical-lack-of-judgment "Andrew Coyne: Bill Morneau's actions reveal a critical lack of judgment") *National Post*
 
 [The dawning of the new Don River Valley Park](https://www.thestar.com/news/gta/2017/10/20/the-dawning-of-the-new-don-river-valley-park-micallef.html "The dawning of the new Don River Valley Park. By Shawn Micallef") *Toronto Star*
 

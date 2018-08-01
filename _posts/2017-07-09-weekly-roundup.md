@@ -16,7 +16,7 @@ tags: []
 
 [Love in the Time of iMessage](https://motherboard.vice.com/en_us/article/7x9z34/love-in-the-time-of-imessage "Love in the Time of iMessage. By Ankita Rao") *Motherboard*
 
-[Close encounters of the classified kind](http://www.thespacereview.com/article/3277/1 "Close encounters of the classified kind. By Marco Langbroek") *The Space Review*
+[Close encounters of the classified kind](https://www.thespacereview.com/article/3277/1 "Close encounters of the classified kind. By Marco Langbroek") *The Space Review*
 
 ### Tweet
 

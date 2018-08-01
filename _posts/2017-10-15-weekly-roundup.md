@@ -12,7 +12,7 @@ tags: []
 
 ### Articles/Columns
 
-[What Trump’s “America First” Means for Latin America](http://www.americasquarterly.org/node/9155 "What Trump’s “America First” Means for Latin America. By Richard E. Feinberg") *Americas Quarterly*
+[What Trump’s “America First” Means for Latin America](https://www.americasquarterly.org/node/9155 "What Trump’s “America First” Means for Latin America. By Richard E. Feinberg") *Americas Quarterly*
 
 [The Rock Test: A Hack for Men Who Don’t Want To Be Accused of Sexual Harassment](https://medium.com/@annevictoriaclark/the-rock-test-a-hack-for-men-who-dont-want-to-be-accused-of-sexual-harassment-73c45e0b49af "The Rock Test: A Hack for Men Who Don’t Want To Be Accused of Sexual Harassment")
 

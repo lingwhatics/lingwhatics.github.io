@@ -12,7 +12,7 @@ tags: []
 
 ### Articles/Columns
 
-['Make Failure Your Fuel.' Read Soccer Star Abby Wambach's Barnard Commencement Address](http://time.com/5281711/abby-wambach-barnard-commencement-2018-speech/ "'Make Failure Your Fuel.' Read Soccer Star Abby Wambach's Barnard Commencement Address") *Time*
+['Make Failure Your Fuel.' Read Soccer Star Abby Wambach's Barnard Commencement Address](https://time.com/5281711/abby-wambach-barnard-commencement-2018-speech/ "'Make Failure Your Fuel.' Read Soccer Star Abby Wambach's Barnard Commencement Address") *Time*
 
 [The Golden Knights Going to the Stanley Cup Final is Good for Everyone](https://sports.vice.com/en_us/article/vbqdqb/the-golden-knights-going-to-the-stanley-cup-final-is-good-for-everyone "The Golden Knights Going to the Stanley Cup Final is Good for Everyone. By Dave Lozo") *Vice Sports*
 

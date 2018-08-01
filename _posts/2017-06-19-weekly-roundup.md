@@ -14,7 +14,7 @@ tags: []
 
 [Stop Pretending You’re Not Rich](https://www.nytimes.com/2017/06/10/opinion/sunday/stop-pretending-youre-not-rich.html "Stop Pretending You’re Not Rich. By Richard V. Reeves") *The New York Times*
 
-[Black Brazilians Are Becoming a Powerful Market](http://www.ozy.com/fast-forward/its-time-for-the-black-brazilian-billionaires/77471 "Black Brazilians Are Becoming a Powerful Market, By Catherine Osborn") *OZY*
+[Black Brazilians Are Becoming a Powerful Market](https://www.ozy.com/fast-forward/its-time-for-the-black-brazilian-billionaires/77471 "Black Brazilians Are Becoming a Powerful Market, By Catherine Osborn") *OZY*
 
 [What Happened to Eastern Airlines Flight 980?](https://www.outsideonline.com/2126426/what-happened-eastern-airlines-flight-980 "What Happened to Eastern Airlines Flight 980? By Peter Frick-Wright") *Outside*
   

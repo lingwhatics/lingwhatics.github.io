@@ -12,11 +12,11 @@ tags: []
 
 ### Articles/Columns
 
-[Sunday in Bowness Park](http://everydaytourist.ca/2017/2017/7/17/sunday-in-bowness-park "Sunday in Bowness Park") *Everyday Tourist*
+[Sunday in Bowness Park](https://everydaytourist.ca/2017/2017/7/17/sunday-in-bowness-park "Sunday in Bowness Park") *Everyday Tourist*
 
-[Why the Trudeau PMO needs to butt out of the Bank of Canada’s business](http://www.macleans.ca/economy/economicanalysis/why-the-trudeau-pmo-needs-to-butt-out-of-the-bank-of-canadas-business/ "Why the Trudeau PMO needs to butt out of the Bank of Canada’s business. By Kevin Carmichael") *Maclean's*
+[Why the Trudeau PMO needs to butt out of the Bank of Canada’s business](https://www.macleans.ca/economy/economicanalysis/why-the-trudeau-pmo-needs-to-butt-out-of-the-bank-of-canadas-business/ "Why the Trudeau PMO needs to butt out of the Bank of Canada’s business. By Kevin Carmichael") *Maclean's*
 
-[So, which is it: the St. John River or the Saint John River? A National Post investigation](http://nationalpost.com/news/politics/so-which-is-it-the-st-john-river-or-the-saint-john-river-a-national-post-investigation/wcm/352ddb27-1f67-4532-99bb-496b1690e8cb "So, which is it: the St. John River or the Saint John River? A National Post investigation. By Marie-Danielle Smith") *National Post*
+[So, which is it: the St. John River or the Saint John River? A National Post investigation](https://nationalpost.com/news/politics/so-which-is-it-the-st-john-river-or-the-saint-john-river-a-national-post-investigation/wcm/352ddb27-1f67-4532-99bb-496b1690e8cb "So, which is it: the St. John River or the Saint John River? A National Post investigation. By Marie-Danielle Smith") *National Post*
 
 ### Tweet
 

@@ -16,7 +16,7 @@ tags: []
 
 [Tidying the TTC](https://sharlagelfand.netlify.com/posts/tidy-ttc/ "Tidying the TTC. By Sharla Gelfand")
 
-[Two Months On, Brazilians Still Ask: Who Killed Marielle Franco?](http://www.americasquarterly.org/node/9603#.Wvjm6F64hsw.twitter "Two Months On, Brazilians Still Ask: Who Killed Marielle Franco?. By Shannon Sims") *Americas Quarterly*
+[Two Months On, Brazilians Still Ask: Who Killed Marielle Franco?](https://www.americasquarterly.org/node/9603#.Wvjm6F64hsw.twitter "Two Months On, Brazilians Still Ask: Who Killed Marielle Franco?. By Shannon Sims") *Americas Quarterly*
 
 ### Tweet
 

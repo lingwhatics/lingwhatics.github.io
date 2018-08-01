@@ -14,13 +14,13 @@ Missed last week because vacationing in Montreal was a lot of fun.
 
 ### Articles/Columns
 
-[These Guys Were Argentina At Its Best](http://americasquarterly.org/content/these-guys-were-argentina-its-best "These Guys Were Argentina At Its Best. By Brian Winter") *Americas Quarterly*
+[These Guys Were Argentina At Its Best](https://americasquarterly.org/content/these-guys-were-argentina-its-best "These Guys Were Argentina At Its Best. By Brian Winter") *Americas Quarterly*
 
 [It’s good to have you with us, even if it’s just for the day.](https://medium.com/@smsfindlay/its-good-to-have-you-with-us-even-if-it-s-just-for-the-day-a8ed4a32b656 "It’s good to have you with us, even if it’s just for the day. By Findlay")
 
 [‘My father’s death has given me a love of men, of their vulnerability and tenderness’](https://www.theguardian.com/lifeandstyle/2017/nov/04/aisling-bea-my-fathers-death-has-given-me-a-love-of-men-of-their-vulnerability-and-tenderness "Aisling Bea: ‘My father’s death has given me a love of men, of their vulnerability and tenderness’") *The Guardian*
 
-[Calgary’s never-ending public shame: blocking basement suites](http://www.macleans.ca/society/calgarys-never-ending-public-shame-blocking-basement-suites/ "Calgary’s never-ending public shame: blocking basement suites By Jason Markusoff") *Maclean's*
+[Calgary’s never-ending public shame: blocking basement suites](https://www.macleans.ca/society/calgarys-never-ending-public-shame-blocking-basement-suites/ "Calgary’s never-ending public shame: blocking basement suites By Jason Markusoff") *Maclean's*
 
 [Meet the deputants](https://beta.theglobeandmail.com/news/toronto/meet-torontos-deputants-a-little-band-of-oddballs-and-obsessives-who-help-keep-politicians-honest/article36754911/ "Meet the deputants. By Marcus Gee") *The Globe and Mail*
 

@@ -12,11 +12,11 @@ tags: []
 
 ### Articles/Columns
 
-[Entitlement and Me: Problems in Canadian Medical Education](http://blog.ualberta.ca/2017/04/entitlement-and-me-problems-in-canadian.html "Entitlement and Me: Problems in Canadian Medical Education. By Lester Liao") *The Quad*
+[Entitlement and Me: Problems in Canadian Medical Education](https://blog.ualberta.ca/2017/04/entitlement-and-me-problems-in-canadian.html "Entitlement and Me: Problems in Canadian Medical Education. By Lester Liao") *The Quad*
 
-[A simpleton’s guide to Ontario’s ‘Fair Housing Plan’](http://news.nationalpost.com/full-comment/chris-selley-a-simpletons-guide-to-ontarios-fair-housing-plan "Chris Selley: A simpleton’s guide to Ontario’s ‘Fair Housing Plan’") *National Post*
+[A simpleton’s guide to Ontario’s ‘Fair Housing Plan’](https://news.nationalpost.com/full-comment/chris-selley-a-simpletons-guide-to-ontarios-fair-housing-plan "Chris Selley: A simpleton’s guide to Ontario’s ‘Fair Housing Plan’") *National Post*
 
-[The good—and the bad—in Canada’s provincial trade deal](http://www.macleans.ca/economy/economicanalysis/the-good-and-the-bad-in-canadas-provincial-trade-deal/ "The good—and the bad—in Canada’s provincial trade deal. By Trevor Tombe") *Maclean's*
+[The good—and the bad—in Canada’s provincial trade deal](https://www.macleans.ca/economy/economicanalysis/the-good-and-the-bad-in-canadas-provincial-trade-deal/ "The good—and the bad—in Canada’s provincial trade deal. By Trevor Tombe") *Maclean's*
 
 ### Tweet
 

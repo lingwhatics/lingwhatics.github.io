@@ -5,7 +5,7 @@ date:   2017-09-19
 tags: shows
 ---
 
-Last night, a colleague and I went to see [Trampoline Hall](http://www.trampolinehall.net "Trampoline Hall") (both for the first time). It was a really fun show and I learned some things about Indigenous Humour, the Literal Void and why good ideas don't get implemented.
+Last night, a colleague and I went to see [Trampoline Hall](https://www.trampolinehall.net "Trampoline Hall") (both for the first time). It was a really fun show and I learned some things about Indigenous Humour, the Literal Void and why good ideas don't get implemented.
 
 My favourite lecture of the evening was Audrey Dwyer speaking about the Literal Void. This was the lecture title that meant the least to me going into the evening, but it resonated the most. Her descriptions of the void, all the aspects of void-ness and the ways of seeing voids all around were wonderful. The questions generated and Audrey's answers were also great.
 

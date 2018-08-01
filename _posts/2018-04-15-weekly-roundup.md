@@ -13,7 +13,7 @@ tags: []
 ### Articles/Columns
 [How We Found New Patterns in LA’s Homeless Arrest Data](https://source.opennews.org/articles/how-we-found-new-patterns-la-homeless-arrest/ "How We Found New Patterns in LA’s Homeless Arrest Data. By Christine Zhang") *Source*
 
-[Watch this raccoon get inside a raccoon-proof green bin in less than 30 seconds](http://www.cbc.ca/news/canada/toronto/raccoon-resistant-bins-not-1.4615190 "Watch this raccoon get inside a raccoon-proof green bin in less than 30 seconds. By Ramna Shahzad") *CBC*
+[Watch this raccoon get inside a raccoon-proof green bin in less than 30 seconds](https://www.cbc.ca/news/canada/toronto/raccoon-resistant-bins-not-1.4615190 "Watch this raccoon get inside a raccoon-proof green bin in less than 30 seconds. By Ramna Shahzad") *CBC*
 
 [‘Consider flour as flavour’: Bakers turn to whole grains to give their baked goods a boost](https://www.theglobeandmail.com/life/food-and-wine/article-consider-flour-as-flavour-bakers-turn-to-whole-grains-to-give-their/ "‘Consider flour as flavour’: Bakers turn to whole grains to give their baked goods a boost. By Simon Thibault") *The Globe and Mail*
 

@@ -14,7 +14,7 @@ tags: []
 
 [Angst in the Annex’s angry triangle](https://www.thestar.com/opinion/star-columnists/2018/02/02/angst-in-the-annexs-angry-triangle.html "Angst in the Annex’s angry triangle. By Shawn Micallef") *Toronto Star*
 
-[Why are stock markets falling? No one knows. What should you do? Nothing](http://nationalpost.com/opinion/andrew-coyne-why-are-stock-markets-falling-no-one-knows-what-should-you-do-nothing "Andrew Coyne: Why are stock markets falling? No one knows. What should you do? Nothing") *National Post*
+[Why are stock markets falling? No one knows. What should you do? Nothing](https://nationalpost.com/opinion/andrew-coyne-why-are-stock-markets-falling-no-one-knows-what-should-you-do-nothing "Andrew Coyne: Why are stock markets falling? No one knows. What should you do? Nothing") *National Post*
 
 [Brazil's biggest newspaper pulls content from Facebook after algorithm change](https://www.theguardian.com/technology/2018/feb/08/facebook-brazil-newspaper-folha-de-s-paulo-fake-news "Brazil's biggest newspaper pulls content from Facebook after algorithm change. By Dom Phillips") *The Guardian*
 

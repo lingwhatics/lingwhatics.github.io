@@ -14,11 +14,11 @@ tags: []
 
 [BuzzFeed News Trained A Computer To Search For Hidden Spy Planes. This Is What We Found.](https://www.buzzfeed.com/peteraldhous/hidden-spy-planes?utm_term=.dbBGxy1QE#.tr2Bn4Pml "BuzzFeed News Trained A Computer To Search For Hidden Spy Planes. This Is What We Found. By Peter Aldhous") *BuzzFeed*
 
-[Dear Metrolinx: The Problem Is Not Your Communication Strategy or Your Branding](http://torontoist.com/2017/08/dear-metrolinx-problem-not-communication-strategy-branding/ "Dear Metrolinx: The Problem Is Not Your Communication Strategy or Your Branding. By Tricia Wood") *Torontoist*
+[Dear Metrolinx: The Problem Is Not Your Communication Strategy or Your Branding](https://torontoist.com/2017/08/dear-metrolinx-problem-not-communication-strategy-branding/ "Dear Metrolinx: The Problem Is Not Your Communication Strategy or Your Branding. By Tricia Wood") *Torontoist*
 
 [London’s New Subway Symbolized the Future. Then Came Brexit.](https://www.nytimes.com/2017/07/31/world/europe/london-crossrail-uk-brexit.html "London’s New Subway Symbolized the Future. Then Came Brexit. By Michael Kimmelman") *The New York Times*
 
-[Quelles langues parle-t-on dans votre quartier? (_What Languages are Spoken in Your Neighbourhood?_)](http://www.ledevoir.com/documents/special/17-08_carte-points-recensement/index.html "Quelles langues parle-t-on dans votre quartier?") *Le Devoir*
+[Quelles langues parle-t-on dans votre quartier? (_What Languages are Spoken in Your Neighbourhood?_)](https://www.ledevoir.com/documents/special/17-08_carte-points-recensement/index.html "Quelles langues parle-t-on dans votre quartier?") *Le Devoir*
 
 ### Tweet
 

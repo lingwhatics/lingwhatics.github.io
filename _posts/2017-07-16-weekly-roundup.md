@@ -16,7 +16,7 @@ tags: []
 
 [Here is what the TTC should do instead of killing the two-hour transfer on St. Clair](https://www.thestar.com/news/gta/2017/07/14/here-is-what-the-ttc-should-do-instead-of-killing-the-two-hour-transfer-on-st-clair-keenan.html "Here is what the TTC should do instead of killing the two-hour transfer on St. Clair. By Edward Keenan") *Toronto Star*
 
-[Rona Ambrose’s advice for Canadian women considering politics](http://www.macleans.ca/opinion/rona-ambroses-advice-for-canadian-women-considering-politics/ "Rona Ambrose’s advice for Canadian women considering politics. By Rona Ambrose") *Maclean's*
+[Rona Ambrose’s advice for Canadian women considering politics](https://www.macleans.ca/opinion/rona-ambroses-advice-for-canadian-women-considering-politics/ "Rona Ambrose’s advice for Canadian women considering politics. By Rona Ambrose") *Maclean's*
 
 ### Tweet
 

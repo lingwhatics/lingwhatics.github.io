@@ -12,9 +12,9 @@ tags: []
 
 ### Articles/Columns
 
-[If driving is a privilege, why is it so hard to revoke?](http://news.nationalpost.com/full-comment/chris-selley-if-driving-is-a-privilege-why-is-it-so-hard-to-revoke "Chris Selley: If driving is a privilege, why is it so hard to revoke?") *National Post*
+[If driving is a privilege, why is it so hard to revoke?](https://news.nationalpost.com/full-comment/chris-selley-if-driving-is-a-privilege-why-is-it-so-hard-to-revoke "Chris Selley: If driving is a privilege, why is it so hard to revoke?") *National Post*
 
-[The Art of Toilet Cleanliness](http://luckypeach.com/the-art-of-toilet-cleanliness-joe-beef/ "The Art of Toilet Cleanliness. By Peter Meehan") *Lucky Peach*
+[The Art of Toilet Cleanliness](https://luckypeach.com/the-art-of-toilet-cleanliness-joe-beef/ "The Art of Toilet Cleanliness. By Peter Meehan") *Lucky Peach*
 
 [How The Rock Became Our Favorite Populist Hero](https://www.buzzfeed.com/scaachikoul/how-the-rock-became-our-favorite-populist-hero "How The Rock Became Our Favorite Populist Hero. By Scaachi Koul") *BuzzFeed*
 

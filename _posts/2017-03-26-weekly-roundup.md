@@ -12,9 +12,9 @@ tags: []
 
 ### Articles/Columns
 
-[The Art of Letting Go](http://www.espn.com/espn/feature/story/_/id/17668845/korean-bat-flip "The Art of Letting Go. By Mina Kimes") *ESPN Magazine*
+[The Art of Letting Go](https://www.espn.com/espn/feature/story/_/id/17668845/korean-bat-flip "The Art of Letting Go. By Mina Kimes") *ESPN Magazine*
 
-[Digitization Unearths New Data From Cold War-Era Nuclear Test Films](http://www.npr.org/sections/thetwo-way/2017/03/16/520398342/digitization-unearths-new-data-from-cold-war-era-nuclear-test-films "Digitization Unearths New Data From Cold War-Era Nuclear Test Films. By Laurel Wamsley") *NPR*
+[Digitization Unearths New Data From Cold War-Era Nuclear Test Films](https://www.npr.org/sections/thetwo-way/2017/03/16/520398342/digitization-unearths-new-data-from-cold-war-era-nuclear-test-films "Digitization Unearths New Data From Cold War-Era Nuclear Test Films. By Laurel Wamsley") *NPR*
 
 [Humber River Hospital an example of Ontario getting it right](https://www.thestar.com/news/gta/2017/03/24/humber-river-hospital-an-example-of-ontario-getting-it-right-micallef.html "Humber River Hospital an example of Ontario getting it right. By Shawn Micallef") *Toronto Star*
 

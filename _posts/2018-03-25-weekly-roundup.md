@@ -11,7 +11,7 @@ tags: []
 ---
 
 ### Articles/Columns
-[Barenaked Ladies, Steven Page aim to 'remember the past without getting mired in it' at Junos](http://www.cbc.ca/news/entertainment/barenaked-ladies-steven-page-junos-reunion-hall-of-fame-1.4586823 "Barenaked Ladies, Steven Page aim to 'remember the past without getting mired in it' at Junos. By David Common and Tiffany Foxcroft") *CBC*
+[Barenaked Ladies, Steven Page aim to 'remember the past without getting mired in it' at Junos](https://www.cbc.ca/news/entertainment/barenaked-ladies-steven-page-junos-reunion-hall-of-fame-1.4586823 "Barenaked Ladies, Steven Page aim to 'remember the past without getting mired in it' at Junos. By David Common and Tiffany Foxcroft") *CBC*
 
 [Marriage Proposals Are Stupid](https://www.theatlantic.com/family/archive/2018/03/marriage-proposals-are-stupid/556403/ "Marriage Proposals Are Stupid. By Caroline Kitchener") *The Atlantic*
 

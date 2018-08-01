@@ -14,9 +14,9 @@ tags: []
 
 [Spanish Thrives in the U.S. Despite an English-Only Drive](https://www.nytimes.com/2017/08/23/us/spanish-language-united-states.html "Spanish Thrives in the U.S. Despite an English-Only Drive. By Simon Romero") *The New York Times*
 
-[Astonishing nonsense from the Liberals amid surge of asylum-seekers](http://nationalpost.com/opinion/chris-selley-astonishing-nonsense-from-the-liberals-on-surge-of-asylum-seekers "Chris Selley: Astonishing nonsense from the Liberals amid surge of asylum-seekers") *National Post*
+[Astonishing nonsense from the Liberals amid surge of asylum-seekers](https://nationalpost.com/opinion/chris-selley-astonishing-nonsense-from-the-liberals-on-surge-of-asylum-seekers "Chris Selley: Astonishing nonsense from the Liberals amid surge of asylum-seekers") *National Post*
 
-[What do doctors really have to fear from the feds’ tax crackdown?](http://www.macleans.ca/opinion/what-do-doctors-really-have-to-fear-from-the-feds-tax-crackdown/ "What do doctors really have to fear from the feds’ tax crackdown? By Michael Wolfson") *Maclean's*
+[What do doctors really have to fear from the feds’ tax crackdown?](https://www.macleans.ca/opinion/what-do-doctors-really-have-to-fear-from-the-feds-tax-crackdown/ "What do doctors really have to fear from the feds’ tax crackdown? By Michael Wolfson") *Maclean's*
 
 ### Tweet
 

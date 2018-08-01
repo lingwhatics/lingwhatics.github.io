@@ -14,7 +14,7 @@ tags: []
 
 [Why not all parents benefit from Canada’s parental-leave program](https://tvo.org/article/current-affairs/shared-values/why-not-all-parents-benefit-from-canadas-parental-leave-program "Why not all parents benefit from Canada’s parental-leave program. By Chantal Braganza") *TVO*
 
-[Can We Keep Food Scraps Out of the Landfill?](http://www.governing.com/commentary/gov-food-waste-recycling-diverting-landfill.html "Can We Keep Food Scraps Out of the Landfill? By Bob Graves") *Governing*
+[Can We Keep Food Scraps Out of the Landfill?](https://www.governing.com/commentary/gov-food-waste-recycling-diverting-landfill.html "Can We Keep Food Scraps Out of the Landfill? By Bob Graves") *Governing*
 
 ["Mission Impossible": I Don't Understand How Tall Everyone Is](https://www.theawl.com/2011/12/mission-impossible-i-dont-understand-how-tall-everyone-is/ "'Mission Impossible': I Don't Understand How Tall Everyone Is. By Choire Sicha") *The Awl*
 

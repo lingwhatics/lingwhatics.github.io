@@ -12,9 +12,9 @@ tags: []
 
 ### Articles/Columns
 
-[Craft Beer Thrives in a Rio de Janeiro Favela](http://americasquarterly.org/content/craft-beer-thrives-rio-de-janeiro-favelas "Craft Beer Thrives in a Rio de Janeiro Favela. By Jill Langlois") *Americas Quarterly*
+[Craft Beer Thrives in a Rio de Janeiro Favela](https://americasquarterly.org/content/craft-beer-thrives-rio-de-janeiro-favelas "Craft Beer Thrives in a Rio de Janeiro Favela. By Jill Langlois") *Americas Quarterly*
 
-[Edmontonian Time](http://eighteenbridges.com/story/edmontonian-time-rollie-pemberton-essay/ "Edmontonian Time. By Rollie Pemberton") *Eighteen Bridges*
+[Edmontonian Time](https://eighteenbridges.com/story/edmontonian-time-rollie-pemberton-essay/ "Edmontonian Time. By Rollie Pemberton") *Eighteen Bridges*
 
 [Don’t blame equalization for Alberta’s fiscal mess](https://beta.theglobeandmail.com/opinion/dont-blame-equalization-for-albertas-fiscal-mess/article36680619/ "Don’t blame equalization for Alberta’s fiscal mess. By Trevor Tombe") *The Globe and Mail*
 

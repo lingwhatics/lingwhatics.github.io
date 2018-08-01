@@ -12,9 +12,9 @@ tags: []
 
 ### Articles/Columns
 
-[A Tangled Web](http://www.hardballtimes.com/a-tangled-web/ "A Tangled Web. By Mary Craig") *The Hardball Times*
+[A Tangled Web](https://www.hardballtimes.com/a-tangled-web/ "A Tangled Web. By Mary Craig") *The Hardball Times*
 
-[The important questions: Should you ever use a knife and fork to eat a slice of pizza?](http://nationalpost.com/life/food/the-important-questions-should-you-ever-use-a-knife-and-fork-to-eat-a-slice-of-pizza/wcm/b1ee36c6-5de5-4c38-8fc0-2a160c246378 "The important questions: Should you ever use a knife and fork to eat a slice of pizza?. By Josh McConnell") *National Post*
+[The important questions: Should you ever use a knife and fork to eat a slice of pizza?](https://nationalpost.com/life/food/the-important-questions-should-you-ever-use-a-knife-and-fork-to-eat-a-slice-of-pizza/wcm/b1ee36c6-5de5-4c38-8fc0-2a160c246378 "The important questions: Should you ever use a knife and fork to eat a slice of pizza?. By Josh McConnell") *National Post*
 
 [In Brazil’s crooked political game, is anybody playing fair? A search for an honest political player](https://www.theglobeandmail.com/news/world/brazil-corruption-odyssey/article35045704/ "In Brazil’s crooked political game, is anybody playing fair? A search for an honest political player. By Stephanie Nolen and Elisângela Mendonça") *The Globe and Mail*
 

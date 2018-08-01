@@ -12,11 +12,11 @@ tags: []
 
 ### Articles/Columns
 
-[Republic of Lies](http://www.drb.ie/essays/republic-of-lies "Republic of Lies. By Tom Hennigan") *Dublin Review of Books*
+[Republic of Lies](https://www.drb.ie/essays/republic-of-lies "Republic of Lies. By Tom Hennigan") *Dublin Review of Books*
 
-[As Trump’s refugees stream into Canada, will our immigration policies hold up?](http://news.nationalpost.com/full-comment/chris-selley-as-trumps-refugees-stream-into-canada-will-our-immigration-policies-hold-up "Chris Selley: As Trump’s refugees stream into Canada, will our immigration policies hold up?") *National Post*
+[As Trump’s refugees stream into Canada, will our immigration policies hold up?](https://news.nationalpost.com/full-comment/chris-selley-as-trumps-refugees-stream-into-canada-will-our-immigration-policies-hold-up "Chris Selley: As Trump’s refugees stream into Canada, will our immigration policies hold up?") *National Post*
 
-[The OMB, while imperfect, helps protect Toronto against NIMBYism](http://www.metronews.ca/views/toronto/torys-toronto-matt-elliott/2017/02/28/the-omb-imperfect-helps-protect-toronto-against-nimbyism.html "The OMB, while imperfect, helps protect Toronto against NIMBYism. By Matt Elliott") *Metro*
+[The OMB, while imperfect, helps protect Toronto against NIMBYism](https://www.metronews.ca/views/toronto/torys-toronto-matt-elliott/2017/02/28/the-omb-imperfect-helps-protect-toronto-against-nimbyism.html "The OMB, while imperfect, helps protect Toronto against NIMBYism. By Matt Elliott") *Metro*
 
 ### Tweet
 

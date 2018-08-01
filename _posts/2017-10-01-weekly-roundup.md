@@ -12,11 +12,11 @@ tags: []
 
 ### Articles/Columns
 
-[Time to bust the myth. Canada does not have to be in aerospace](http://nationalpost.com/opinion/andrew-coyne-time-to-bust-the-myth-canada-does-not-have-to-be-in-aerospace "Andrew Coyne: Time to bust the myth. Canada does not have to be in aerospace") *National Post*
+[Time to bust the myth. Canada does not have to be in aerospace](https://nationalpost.com/opinion/andrew-coyne-time-to-bust-the-myth-canada-does-not-have-to-be-in-aerospace "Andrew Coyne: Time to bust the myth. Canada does not have to be in aerospace") *National Post*
 
 [Go east … the food is getting better out there](https://beta.theglobeandmail.com/news/toronto/torontos-east-end-sees-a-rise-in-quality-restaurants-but-filling-seats-isnt-alwayseasy/article36372822/ "Go east … the food is getting better out there. By Denise Balkissoon") *The Globe and Mail*
 
-[The problem with Trudeau’s high road](http://www.macleans.ca/politics/ottawa/the-problem-with-trudeaus-high-road/ "The problem with Trudeau’s high road. By Paul Wells") *Maclean's*
+[The problem with Trudeau’s high road](https://www.macleans.ca/politics/ottawa/the-problem-with-trudeaus-high-road/ "The problem with Trudeau’s high road. By Paul Wells") *Maclean's*
 
 ### Tweet
 

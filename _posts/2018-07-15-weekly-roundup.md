@@ -16,7 +16,7 @@ tags: []
 
 [The Liberals' random breath testing will turn everything into an airport](https://nationalpost.com/opinion/colby-cosh-the-liberals-random-breath-testing-will-turn-everything-into-an-airport "Colby Cosh: The Liberals' random breath testing will turn everything into an airport") *National Post*
 
-[Comparing City Street Orientations](http://geoffboeing.com/2018/07/comparing-city-street-orientations/ "Comparing City Street Orientations. By Geoff Boeing")
+[Comparing City Street Orientations](https://geoffboeing.com/2018/07/comparing-city-street-orientations/ "Comparing City Street Orientations. By Geoff Boeing")
 
 [As a society, we’ve ruined the concept of food](https://www.theglobeandmail.com/opinion/article-as-a-society-weve-ruined-the-concept-of-food/ "As a society, we’ve ruined the concept of food. By Corey Mintz") *The Globe and Mail*
 

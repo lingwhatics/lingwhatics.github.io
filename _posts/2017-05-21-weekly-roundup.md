@@ -16,7 +16,7 @@ tags: []
 
 [Duck Ramps Appear at U.S. Capitol, but Not Everyone Is Pleased](https://www.nytimes.com/2017/05/16/us/duck-ramps-capitol-reflecting-pool.html "Duck Ramps Appear at U.S. Capitol, but Not Everyone Is Pleased. By Liam Stack") *The New York Times*
 
-[Maybe liquor retail in Ontario isn’t hopeless after all](http://news.nationalpost.com/full-comment/chris-selley-maybe-liquor-retail-in-ontario-isnt-hopeless-after-all "Chris Selley: Maybe liquor retail in Ontario isn’t hopeless after all") *National Post*
+[Maybe liquor retail in Ontario isn’t hopeless after all](https://news.nationalpost.com/full-comment/chris-selley-maybe-liquor-retail-in-ontario-isnt-hopeless-after-all "Chris Selley: Maybe liquor retail in Ontario isn’t hopeless after all") *National Post*
 
 ### Tweet
 

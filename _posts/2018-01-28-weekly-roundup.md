@@ -12,11 +12,11 @@ tags: []
 
 ### Articles/Columns
 
-[How public libraries are reinventing themselves for the 21st century](http://www.macleans.ca/society/how-public-libraries-are-reinventing-themselves-for-the-21st-century/ "How public libraries are reinventing themselves for the 21st century. By Brian Bethune") *Maclean's*
+[How public libraries are reinventing themselves for the 21st century](https://www.macleans.ca/society/how-public-libraries-are-reinventing-themselves-for-the-21st-century/ "How public libraries are reinventing themselves for the 21st century. By Brian Bethune") *Maclean's*
 
 [How Radio Show Brave New Waves Helped Build Canada’s Underground Scene](https://daily.bandcamp.com/2018/01/22/brave-new-waves-feature/ "How Radio Show Brave New Waves Helped Build Canada’s Underground Scene. By Aaron Carnes") *bandcamp daily*
 
-[Man Overboard](http://nationalpost.com/feature/man-overboard "Man Overboard. By David Pugliese") *National Post*
+[Man Overboard](https://nationalpost.com/feature/man-overboard "Man Overboard. By David Pugliese") *National Post*
 
 ### Tweet
 

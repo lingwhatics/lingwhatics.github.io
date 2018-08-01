@@ -161,7 +161,7 @@ permalink: /reading/
 - _Nonsense Novels_ by Stephen Leacock (1911)
 - _Boomerang: Travels in the New Third World_ by Michael Lewis (2011)
 - _Canadian Pie_ by Will Ferguson (2011)
-- _[The Chairs Are Where the People Go](http://www.thechairsarewherethepeoplego.com/): How to Live, Work, and Play in the City_ by Misha Glouberman and Sheila Heti (2011)
+- _[The Chairs Are Where the People Go](https://www.thechairsarewherethepeoplego.com/): How to Live, Work, and Play in the City_ by Misha Glouberman and Sheila Heti (2011)
 
 ### 2011
 - _Obliquity: Why Our Goals Are Best Achieved Indirectly_ by John Kay (2010)
@@ -178,11 +178,11 @@ permalink: /reading/
 - _The Sentimentalists_ by Johanna Skibsrud (2009)
 - _When Gadgets Betray Us_ by Robert Vamosi (2011)
 - _Marshall McLuhan_ by Douglas Coupland (2010)
-- [_Moonbeams from the Larger Lunacy_](http://www.gutenberg.org/ebooks/4064) by Stephen Leacock (1915)
+- [_Moonbeams from the Larger Lunacy_](https://www.gutenberg.org/ebooks/4064) by Stephen Leacock (1915)
 - _Red Tory: How Left and Right have broken Britain and how we can fix it_ by Phillip Blond (2010)
 - _Sunshine Sketches of a Little Town_ by Stephen Leacock (1912)
 - _Losing Our Cool: Uncomfortable Truths About Our Air-Conditioned World (and Finding New Ways to Get Through the Summer)_ by Stan Cox (2010)
-- _[The Public Domain: Enclosing the Commons of the Mind](http://www.thepublicdomain.org/)_ by James Boyle (2010)
+- _[The Public Domain: Enclosing the Commons of the Mind](https://www.thepublicdomain.org/)_ by James Boyle (2010)
 
 ### 2010
 - _Natural Capitalism_ by Paul Hawken, Amory Lovins and L. Hunter Lovins (2008)
@@ -278,7 +278,7 @@ _(There are more I just didn’t keep very good track of them.)_
 - _A Short History of Nearly Everything_ by Bill Bryson (2003)
 - _Fuzzy Logic: Dispatches from the Information Revolution_ by Matthew Friedman (1998)
 - _Eats, Shoots & Leaves_ by Lynne Truss (2003)
-- _[Jennifer Government](http://www.nationstates.net/)_ by Max Barry (2003)
+- _[Jennifer Government](https://www.nationstates.net/)_ by Max Barry (2003)
 - _The Scientist, the Madman, the Thief and their Lightbulb_ by Keith Tutt (2003)
 - _WE_ by Eugene Zamiatin (1924)
 - _A History of Latin America_ by George Pendle (1969)

@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2018
+- _Hard To Do: The Surprising, Feminist History of Breaking Up_ by Kelli María Korducki (2018)
 - _Cat's Cradle_ by Kurt Vonnegut (1963)
 - _The Utility of Boredom: Baseball Essays_ by Andrew Forbes (2016)
 - _How to Talk to Girls at Parties_ by Neil Gaiman (Goodreads Author) (Writer), Fábio Moon (Adaptation, Art, & Lettering), Gabriel Bá (Adaptation, Art, & Lettering) (2016)

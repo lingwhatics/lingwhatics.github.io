@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2018
+- _The Prodigal Tongue: The Love-Hate Relationship Between American and British English_ by Lynne Murphy (2018)
 - _Eat More Better: How to Make Every Bite More Delicious_ by Dan Pashman,  Alex Eben Meyer (Illustrations) (2014)
 - _Hard To Do: The Surprising, Feminist History of Breaking Up_ by Kelli María Korducki (2018)
 - _Cat's Cradle_ by Kurt Vonnegut (1963)

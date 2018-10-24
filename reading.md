@@ -298,16 +298,30 @@ _(There are more I just didn’t keep very good track of them.)_
 - _In the Skin of a Lion_ by Michael Ondaatje (1987)
 - _Brave New World_ by Aldous Huxley (1932)
 
+### 2002
+- _Red China Blues_ by Jan Wong (1996)
+
 ### 2001
 - _Down and Out in Paris and London_ by George Orwell (1933)
 
 ### 2000
 - _The Grapes of Wrath_ by John Steinbeck (1939)
 - _Fried Green Tomatoes at the Whistle Stop Cafe_ by Fannie Flagg (1987)
+- _The Importance of Being Earnest_ Oscar Wilde (1895)
+- _Davita’s Harp_ by Chaim Potok (1985)
+- _The Two Towers_ by J.R.R. Tolkien (1954)
+
+### 1999
+- _The Fellowship of the Ring_ by J.R.R. Tolkien (1954)
+
+### 1995
+- _All Quiet on the Western Front_ by Erich Maria Remarque (1929)
+
+### 1994
+- _The Giver_ by Lois Lowry (1993)
 
 ### Other time
 - _Banker to the Poor: micro-lending and the battle against world poverty_ by Muhammad Yunus (1999)
-- _Davita’s Harp_ by Chaim Potok (1985)
 - _The Day of the Jackal_ by Frederick Forsyth (1971)
 - _1984_ by George Orwell (1949)
 - _The Paradox of Choice: Why More Is Less_ by Barry Schwartz (2004)
@@ -316,14 +330,11 @@ _(There are more I just didn’t keep very good track of them.)_
 - _East of Eden_ by John Steinbeck (1952)
 - _Of Mice and Men_ by John Steinbeck (1937)
 - _The Stranger_ by Albert Camus (1942)
-- _The Fellowship of the Ring_ by J.R.R. Tolkien (1954)
-- _The Two Towers_ by J.R.R. Tolkien (1954)
 - _The Return of the King_ by J.R.R. Tolkien (1955)
 - _The Hobbit_ by J.R.R. Tolkien (1937)
 - _Charlie and the Chocolate Factory_ by Roald Dahl (1962)
 - _The Alchemist_ by Paulo Coelho (1993)
 - _The Metamorphosis_ by Franz Kafka (1915)
-- _All Quiet on the Western Front_ by Erich Maria Remarque (1929)
 - _The Cider House Rules_ by John Irving (1994)
 - _A Room With a View_ by E.M. Forster (1908)
 - _Cannery Row_ by John Steinbeck (1945)

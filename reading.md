@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2018
+- _Saga, Vol. 2 (Saga #2)_ by Brian K. Vaughan (Writer),  Fiona Staples (Artist) (2013)
 - _The Beast: Making a Living on a Dying Planet_ The Beast: Making a Living on a Dying Planet
 by Hugh Goldring,  Nicole Marie Burton (Contributor) (2018)
 - _The Prodigal Tongue: The Love-Hate Relationship Between American and British English_ by Lynne Murphy (2018)
@@ -187,7 +188,7 @@ by Hugh Goldring,  Nicole Marie Burton (Contributor) (2018)
 - _Red Tory: How Left and Right have broken Britain and how we can fix it_ by Phillip Blond (2010)
 - _Sunshine Sketches of a Little Town_ by Stephen Leacock (1912)
 - _Losing Our Cool: Uncomfortable Truths About Our Air-Conditioned World (and Finding New Ways to Get Through the Summer)_ by Stan Cox (2010)
-- _[The Public Domain: Enclosing the Commons of the Mind](https://www.thepublicdomain.org/)_ by James Boyle (2010)
+- [_The Public Domain: Enclosing the Commons of the Mind_](https://www.thepublicdomain.org/) by James Boyle (2010)
 
 ### 2010
 - _Natural Capitalism_ by Paul Hawken, Amory Lovins and L. Hunter Lovins (2008)
@@ -276,7 +277,7 @@ _(There are more I just didn’t keep very good track of them.)_
 - _One Flew Over the Cuckoo’s Nest_ by Ken Kesey (1962)
 - _The Curious Incident of the Dog in the Night-time_ by Mark Haddon (2003)
 - _Beauty Tips from Moose Jaw_ by Will Ferguson (2004)
-- _Fahrenheit 451_ – Ray Bradbury (1953)
+- _Fahrenheit 451_ by Ray Bradbury (1953)
 
 ### 2004
 - _The Catcher in the Rye_ by J. D. Salinger (1951)
@@ -307,7 +308,7 @@ _(There are more I just didn’t keep very good track of them.)_
 ### 2000
 - _The Grapes of Wrath_ by John Steinbeck (1939)
 - _Fried Green Tomatoes at the Whistle Stop Cafe_ by Fannie Flagg (1987)
-- _The Importance of Being Earnest_ Oscar Wilde (1895)
+- _The Importance of Being Earnest_ by Oscar Wilde (1895)
 - _Davita’s Harp_ by Chaim Potok (1985)
 - _The Two Towers_ by J.R.R. Tolkien (1954)
 

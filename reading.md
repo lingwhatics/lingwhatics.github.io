@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2018
+- _Born a Crime_ by Trevor Noah (2016)
 - _French Exit_ by Patrick deWitt (2018)
 - _Saga, Vol. 2 (Saga #2)_ by Brian K. Vaughan (Writer),  Fiona Staples (Artist) (2013)
 - _The Beast: Making a Living on a Dying Planet_ The Beast: Making a Living on a Dying Planet

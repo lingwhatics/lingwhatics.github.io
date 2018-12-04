@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2018
+- _Motherhood_ by Sheila Heti (2018)
 - _Born a Crime_ by Trevor Noah (2016)
 - _French Exit_ by Patrick deWitt (2018)
 - _Saga, Vol. 2 (Saga #2)_ by Brian K. Vaughan (Writer),  Fiona Staples (Artist) (2013)

@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2018
+- _Bossypants_ by Tina Fey (2011)
 - _Motherhood_ by Sheila Heti (2018)
 - _Born a Crime_ by Trevor Noah (2016)
 - _French Exit_ by Patrick deWitt (2018)

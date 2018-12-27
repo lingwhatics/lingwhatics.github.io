@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2018
+- _The Library Book_ Susan Orlean (2018)
 - _Bossypants_ by Tina Fey (2011)
 - _Motherhood_ by Sheila Heti (2018)
 - _Born a Crime_ by Trevor Noah (2016)

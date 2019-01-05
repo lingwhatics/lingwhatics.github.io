@@ -6,6 +6,9 @@ permalink: /reading/
 
 ## Books I have been reading
 
+### 2019
+- _Arbitrary Stupid Goal_ by Tamara Shopsin (2017)
+
 ### 2018
 - _The Library Book_ Susan Orlean (2018)
 - _Bossypants_ by Tina Fey (2011)

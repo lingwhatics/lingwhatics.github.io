@@ -7,7 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2019
-- _Boom Town: The Fantastical Saga of Oklahoma City, Its Chaotic Founding, Its Apocalyptic Weather, Its Purloined Basketball Team, and the Dream of Becoming a World-class Metropolis_ by Sam Anderson (2018)
+- _Boom Town_ by Sam Anderson (2018)
 - _Arbitrary Stupid Goal_ by Tamara Shopsin (2017)
 
 ### 2018

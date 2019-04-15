@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2019
+- _Design Is Storytelling_ by Ellen Lupton (2017)
 - _Boom Town_ by Sam Anderson (2018)
 - _Arbitrary Stupid Goal_ by Tamara Shopsin (2017)
 

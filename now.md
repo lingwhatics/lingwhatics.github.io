@@ -4,24 +4,22 @@ title: Now
 permalink: /now/
 ---
 
-What am I up to these days? (2019-03-30)
+What am I up to these days? (2019-05-05)
 
-Where: Toronto (but off to Montreal in a month)
+Where: Montreal
 
 What and Why: 
 
-- Trying to get back on track for my goal of reading 30 books a year. I have not finished a book since the start of January, but I do have several on the go.
-- I have been helping out with the office knitting club. Everyone is knitting squares that will be assembled into a quilt to be raffled off at our annual charity night.
-- Continuing to learn R to apply it to data analysis and graphic creation at work and home. 
+- I just moved to Montreal. I am changing offices, but mostly doing the same job.
+- Trying to get back on track for my goal of reading 30 books a year. I finished a few books in April and have several books on the go.
+- On my first full day in Montreal, I went to a data visualization meetup. It was interesting to meet people to talk a little about how they think about visualization. 
 - I gave a talk at work about visualization to get everyone thinking about improving the level of visual communication. I included information about colour visual deficiencies that was well received by several people who commented that they alway have trouble because most people don't think about their needs.
-- Travelled to Montreal for a weekend with some of my family.
 - Keeping up my Portuguese learning because it is interesting and maybe one day it will be useful too.
 
 What's Next:
 
-- Moving to Montreal in May to take up a similar role at the same company
-- Planning trips for the next year or so (Montreal, Brazil, LA, to be determined)
+- Planning trips for the next year or so (LA, Paris, Brazil, to be determined)
 - Trip home for my grandmother's 100th birthday
-- Practicing my French so I will be able to keep up once I get to Montreal
+- Practicing my French so people will speak to me in French instead of switching to English
 
 Idea for this came from [Peter](https://ruk.ca/content/what-am-i-doing-now "What am I doing /now").

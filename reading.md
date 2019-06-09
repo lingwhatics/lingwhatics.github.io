@@ -7,6 +7,8 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2019
+- _7 Générations : Cicatrices (Volume 2)_ by David Alexander Robertson (Author), Scott Henderson (2014)
+- _7 Générations : Pierre (Volume 1)_ by David Alexander Robertson (Author), Scott Henderson (Illustrator) (2014)
 - _Sex Criminals, Vol. 5: Five-Fingered Discount_ by Matt Fraction (Story), Chip Zdarsky (Artist) (2018)
 - _Design Is Storytelling_ by Ellen Lupton (2017)
 - _Boom Town_ by Sam Anderson (2018)

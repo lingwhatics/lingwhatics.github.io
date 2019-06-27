@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2019
+- _Let's Explore Diabetes with Owls_ by David Sedaris (2013)
 - _7 Générations : Cicatrices (Volume 2)_ by David Alexander Robertson (Author), Scott Henderson (2014)
 - _7 Générations : Pierre (Volume 1)_ by David Alexander Robertson (Author), Scott Henderson (Illustrator) (2014)
 - _Sex Criminals, Vol. 5: Five-Fingered Discount_ by Matt Fraction (Story), Chip Zdarsky (Artist) (2018)

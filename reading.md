@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2019
+- _The Life-Changing Magic of Not Giving A F*Ck_ by Sarah Knight (2015)
 - _Let's Explore Diabetes with Owls_ by David Sedaris (2013)
 - _7 Générations : Cicatrices (Volume 2)_ by David Alexander Robertson (Author), Scott Henderson (2014)
 - _7 Générations : Pierre (Volume 1)_ by David Alexander Robertson (Author), Scott Henderson (Illustrator) (2014)

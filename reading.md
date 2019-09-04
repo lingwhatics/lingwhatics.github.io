@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2019
+- _Because Internet: Understanding the New Rules of Language_ by Gretchen McCulloch (2019)
 - _Why I Love the Habs: A Memoir of Love and Loss at the Hands of the Montreal Canadiens_ by Jay Baruchel (2018)
 - _The Life-Changing Magic of Not Giving A F*Ck_ by Sarah Knight (2015)
 - _Let's Explore Diabetes with Owls_ by David Sedaris (2013)

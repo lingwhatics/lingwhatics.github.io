@@ -20,4 +20,7 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">oh my god, i need this to be me in 20 years <a href="https://t.co/xJ4RIrpBiD">pic.twitter.com/xJ4RIrpBiD</a></p>&mdash; abolish ice in the name of Mary (@hashtag_dta) <a href="https://twitter.com/hashtag_dta/status/1160283677118668802?ref_src=twsrc%5Etfw">August 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">oh my god, i need this to be me in 20 years <a href="https://t.co/xJ4RIrpBiD">pic.twitter.com/xJ4RIrpBiD</a></p>&mdash; abolish ice in the name of Mary (@hashtag_dta) <a href="https://twitter.com/hashtag_dta/status/1160283677118668802?ref_src=twsrc%5Etfw">August 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+ 
+

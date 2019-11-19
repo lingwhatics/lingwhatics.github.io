@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2019
+- _Hello World: Being Human in the Age of Algorithms_ by Hannah Fry (2018)
 - _Palaces for the People: How Social Infrastructure Can Help Fight Inequality, Polarization, and the Decline of Civic Life_ by Eric Klinenberg (2018)
 - _Rues de Montréal_ by Collectif (2019)
 - _Because Internet: Understanding the New Rules of Language_ by Gretchen McCulloch (2019)

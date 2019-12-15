@@ -14,7 +14,7 @@ tags: []
 
 [Toronto police gaslighted us on traffic enforcement. Their neglect put lives at risk](https://www.thestar.com/opinion/contributors/2019/11/22/lack-of-toronto-traffic-enforcement-put-lives-at-risk-for-this-the-police-chief-must-resign.html "Toronto police gaslighted us on traffic enforcement. Their neglect put lives at risk. By Shawn Micallef") *Toronto Star*
 
-[How I Reclaimed My Life by Performing Onstage As Someone Who's Gene Positive for Huntington's Disease](https://themighty.com/2019/11/reclaiming-my-life-with-huntingtons-disease/ "How I Reclaimed My Life by Performing Onstage As Someone Who's Gene Positive for Huntington's Disease. By Erin Paterson")
+[How I Reclaimed My Life by Performing Onstage As Someone Who's Gene Positive for Huntington's Disease](https://themighty.com/2019/11/reclaiming-my-life-with-huntingtons-disease/ "How I Reclaimed My Life by Performing Onstage As Someone Who's Gene Positive for Huntington's Disease. By Erin Paterson") *the mighty*
 
 [Why federal Conservatives should drop their fixation with smaller government](https://www.tvo.org/article/why-federal-conservatives-should-drop-their-fixation-with-smaller-government "Why federal Conservatives should drop their fixation with smaller government. By Joh Michael McGrath") *TVO*
 

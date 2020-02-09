@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2020
+- _Secondhand: Travels in the New Global Garage Sale_ by Adam Minter (2019)
 - _Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking_ by Samin Nosrat (2017)
 - _Utopia for Realists: How We Can Build the Ideal World_ by Rutger Bregman (2014)
 

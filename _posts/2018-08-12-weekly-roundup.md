@@ -12,7 +12,7 @@ tags: []
 
 ### Articles/Columns
 
-[Welcome to the Quiet Skies](http://apps.bostonglobe.com/news/nation/graphics/2018/07/tsa-quiet-skies/ "Welcome to the Quiet Skies. By Jana Winter") *The Boston Globe*
+[Welcome to the Quiet Skies](https://apps.bostonglobe.com/news/nation/graphics/2018/07/tsa-quiet-skies/ "Welcome to the Quiet Skies. By Jana Winter") *The Boston Globe*
 
 [We Tracked Police and Military Planes at the G7](https://motherboard.vice.com/en_us/article/d3k94k/g7-canada-track-rcmp-military-planes-surveillance "We Tracked Police and Military Planes at the G7. By Laurent Bastien Corbeil") *Motherboard*
 

@@ -14,7 +14,7 @@ I was in Montreal last weekend having some fun with some of my family. There mig
 
 ### Articles/Columns
 
-[When We Were Millionaires](http://www.saidthegramophone.com/archives/when_we_were_millionaires.php "When We Were Millionaires. by Sean Michaels") *Said the Gramophone*
+[When We Were Millionaires](https://www.saidthegramophone.com/archives/when_we_were_millionaires.php "When We Were Millionaires. by Sean Michaels") *Said the Gramophone*
 
 [I’m a Little Too Fat, a Little Too Giving. I Think I Know Why.](https://medium.com/s/story/i-am-a-little-too-fat-im-a-little-too-generous-i-think-i-know-why-e97cd25b7eeb "I’m a Little Too Fat, a Little Too Giving. I Think I Know Why. By Kristine Levine")
 

@@ -12,11 +12,11 @@ tags: []
 
 ### Articles/Columns
 
-[For tech-weary Midwest farmers, 40-year-old tractors now a hot commodity](http://www.startribune.com/for-tech-weary-midwest-farmers-40-year-old-tractors-now-a-hot-commodity/566737082/ "For tech-weary Midwest farmers, 40-year-old tractors now a hot commodity. By Adam Belz") *Star Tribune*
+[For tech-weary Midwest farmers, 40-year-old tractors now a hot commodity](https://www.startribune.com/for-tech-weary-midwest-farmers-40-year-old-tractors-now-a-hot-commodity/566737082/ "For tech-weary Midwest farmers, 40-year-old tractors now a hot commodity. By Adam Belz") *Star Tribune*
 
 [Colby Cosh on Flight PS752: coincidental calamity, or mirror of Vincennes?](https://nationalpost.com/opinion/colby-cosh-on-flight-ps752-coincidental-calamity-or-mirror-of-vincennes "Colby Cosh on Flight PS752: coincidental calamity, or mirror of Vincennes?") *National Post*
 
-[The birthday paradox puzzle: tidy simulation in R](http://varianceexplained.org/r/birthday-problem/ "The birthday paradox puzzle: tidy simulation in R. By David Robinson") *variance explained*
+[The birthday paradox puzzle: tidy simulation in R](https://varianceexplained.org/r/birthday-problem/ "The birthday paradox puzzle: tidy simulation in R. By David Robinson") *variance explained*
 
 [(Pretending to) believe the worst?](https://www.statschat.org.nz/2020/01/11/pretending-to-believe-the-worst/ "(Pretending to) believe the worst? By Thomas Lumley") *StatsChat*
 

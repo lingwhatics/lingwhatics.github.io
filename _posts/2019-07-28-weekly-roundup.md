@@ -14,7 +14,7 @@ tags: []
 
 [A Convicted Criminal's Guide to Curbing Corruption in Brazil](https://www.americasquarterly.org/content/inside-criminal-mind "A Convicted Criminal's Guide to Curbing Corruption in Brazil. By Cecilia Tornaghi") *Americas Quarterly*
 
-[Life And Death Under The Dome](http://projects.thestar.com/climate-change-canada/quebec/ "Life And Death Under The Dome. By Marco Chown Oved") *Toronto Star*
+[Life And Death Under The Dome](https://projects.thestar.com/climate-change-canada/quebec/ "Life And Death Under The Dome. By Marco Chown Oved") *Toronto Star*
 
 [A Lost Literature](https://magazine.utoronto.ca/research-ideas/culture-society/a-lost-literature-black-canadian-prairie-writing/ "A Lost Literature. By Vicky Mochama") *University of Toronto Magazine*
 

@@ -16,7 +16,7 @@ tags: []
 
 [My top three 'lessons learned' from the Mark Norman case](https://nationalpost.com/opinion/christie-blatchford-my-top-three-lessons-learned-from-the-mark-norman-case "Christie Blatchford: My top three 'lessons learned' from the Mark Norman case") *National Post*
 
-[The NBA is obsessed with 3s, so let's finally fix the thing](http://www.espn.com/nba/story/_/id/26633540 "The NBA is obsessed with 3s, so let's finally fix the thing. By Kirk Goldsberry") *ESPN*
+[The NBA is obsessed with 3s, so let's finally fix the thing](https://www.espn.com/nba/story/_/id/26633540 "The NBA is obsessed with 3s, so let's finally fix the thing. By Kirk Goldsberry") *ESPN*
 
 ### Tweet
 

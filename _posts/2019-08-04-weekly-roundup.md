@@ -14,7 +14,7 @@ tags: []
 
 [The Perils of Professional Dress](https://thewalrus.ca/the-perils-of-professional-dress/ "The Perils of Professional Dress. By Erika Thorkelson") *The Walrus* 
 
-[Don't Worry, We Will Both Find Out (Just Not Together)](http://www.ghostrunneronfirst.com/2019/07/dont-worry-we-will-both-find-out-just.html "Don't Worry, We Will Both Find Out (Just Not Together)") *Ghostrunner on First* 
+[Don't Worry, We Will Both Find Out (Just Not Together)](https://www.ghostrunneronfirst.com/2019/07/dont-worry-we-will-both-find-out-just.html "Don't Worry, We Will Both Find Out (Just Not Together)") *Ghostrunner on First* 
 
 [Lessons in ugly – understanding Edmonton's downtown library fiasco](https://nationalpost.com/opinion/lessons-in-ugly-understanding-edmontons-downtown-library-fiasco "Colby Cosh: Lessons in ugly – understanding Edmonton's downtown library fiasco") *National Post*
 

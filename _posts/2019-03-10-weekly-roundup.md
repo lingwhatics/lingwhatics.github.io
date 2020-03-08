@@ -14,9 +14,9 @@ tags: []
 
 [Meet Amanda Cox, Who Brings Life to Data on Our Pages](https://www.nytimes.com/2019/02/28/reader-center/data-visualization-editor-amanda-cox.html "Meet Amanda Cox, Who Brings Life to Data on Our Pages. By Jake Lucas") *The New York Times*
 
-[The Water Resource Right Outside the Window](http://www.governing.com/gov-institute/voices/col-conservation-grass-reducing-outdoor-water-use.html "The Water Resource Right Outside the Window. By Mary Ann Dickinson") *Governing*
+[The Water Resource Right Outside the Window](https://www.governing.com/gov-institute/voices/col-conservation-grass-reducing-outdoor-water-use.html "The Water Resource Right Outside the Window. By Mary Ann Dickinson") *Governing*
 
-[Doug Ford’s TTC subway upload and Margaret Thatcher’s cautionary tale](http://spacing.ca/toronto/2019/02/13/doug-fords-ttc-subway-upload-and-margaret-thatchers-cautionary-tale/ "Doug Ford’s TTC subway upload and Margaret Thatcher’s cautionary tale. By Tricia Wood") *Spacing*
+[Doug Ford’s TTC subway upload and Margaret Thatcher’s cautionary tale](https://spacing.ca/toronto/2019/02/13/doug-fords-ttc-subway-upload-and-margaret-thatchers-cautionary-tale/ "Doug Ford’s TTC subway upload and Margaret Thatcher’s cautionary tale. By Tricia Wood") *Spacing*
 
 ### Tweet
 

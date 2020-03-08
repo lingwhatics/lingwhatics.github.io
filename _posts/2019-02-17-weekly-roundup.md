@@ -14,7 +14,7 @@ tags: []
 
 [Canada, the show](https://www.macleans.ca/politics/ottawa/canada-the-show/ "Canada, the show. By Paul Wells") *Maclean's*
 
-[Yes, the City could plow local sidewalks in the old city](http://spacing.ca/toronto/2019/02/09/reid-yes-the-city-could-plow-local-sidewalks-in-the-old-city/ "Yes, the City could plow local sidewalks in the old city. By Dylan Reid") *Spacing*
+[Yes, the City could plow local sidewalks in the old city](https://spacing.ca/toronto/2019/02/09/reid-yes-the-city-could-plow-local-sidewalks-in-the-old-city/ "Yes, the City could plow local sidewalks in the old city. By Dylan Reid") *Spacing*
 
 [Peculiar Pyongyang, a 4K Time Lapse Video of the North Korean Capital](https://kottke.org/19/02/peculiar-pyongyang-a-4k-time-lapse-video-of-the-north-korean-capital "Peculiar Pyongyang, a 4K Time Lapse Video of the North Korean Capital") *kottke.org*
 

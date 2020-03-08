@@ -16,7 +16,7 @@ tags: []
 
 [Harbourfront summer camp turns downtown Toronto into a portal to the great Canadian outdoors](https://www.thestar.com/initiatives/fresh_air_fund/2019/06/28/harbourfront-summer-camp-turns-downtown-toronto-into-a-portal-to-the-great-canadian-outdoors.html "Harbourfront summer camp turns downtown Toronto into a portal to the great Canadian outdoors. By Shawn Micallef") *Toronto Star*
 
-[How To F#€k Up An Airport](http://www.radiospaetkauf.com/ber/ "How To F#€k Up An Airport") *Radio Spaetkauf* 
+[How To F#€k Up An Airport](https://www.radiospaetkauf.com/ber/ "How To F#€k Up An Airport") *Radio Spaetkauf* 
 <-- This is a 4 part podcast and is quite interesting.
 
 ### Tweet

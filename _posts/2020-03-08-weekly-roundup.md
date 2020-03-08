@@ -13,7 +13,7 @@ tags: []
 
 [Why Sheela Basrur, the doctor who guided us through the SARS crisis, is a Toronto hero](https://www.thestar.com/opinion/contributors/2020/01/31/why-sheela-basrur-the-doctor-who-guided-us-through-the-sars-crisis-is-a-toronto-hero.html "Why Sheela Basrur, the doctor who guided us through the SARS crisis, is a Toronto hero. By Shawn Micallef") *Toronto Star*
 
-[Cycling through all the streets in central London](http://davis.vilums.me/all-the-streets/ "Cycling through all the streets in central London")
+[Cycling through all the streets in central London](https://davis.vilums.me/all-the-streets/ "Cycling through all the streets in central London")
 
 [What to Do if Your Bosses Are Gaslighting You](https://forge.medium.com/what-to-do-if-your-bosses-are-gaslighting-you-a23625d58e18 "What to Do if Your Bosses Are Gaslighting You. By Kelli María Korducki")
 

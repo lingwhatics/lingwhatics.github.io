@@ -12,7 +12,7 @@ tags: []
 
 ### Articles/Columns
 
-[Why Brazilians Love Baby Talk](http://www.bbc.com/travel/story/20190114-why-brazilians-love-baby-talk "Why Brazilians Love Baby Talk. By Ian Walker") *BBC*
+[Why Brazilians Love Baby Talk](https://www.bbc.com/travel/story/20190114-why-brazilians-love-baby-talk "Why Brazilians Love Baby Talk. By Ian Walker") *BBC*
 
 [The Insidious Device Revolutionizing Piracy in Latin America](https://www.americasquarterly.org/content/streaming-wars-english "The Insidious Device Revolutionizing Piracy in Latin America. By Jonathan Franklin") *Americas Quarterly*
 

@@ -12,7 +12,7 @@ tags: []
 
 ### Articles/Columns
 
-[Craig Kielburger Founded WE To Fight Child Labour. Now The WE Brand Promotes Products Made By Children.](http://www.canadalandshow.com/craig-kielburger-founded-we-to-fight-child-labour-now-the-we-brand-promotes-products-made-by-children/ "Craig Kielburger Founded WE To Fight Child Labour. Now The WE Brand Promotes Products Made By Children. By Jaren Kerr") *CANADALAND*
+[Craig Kielburger Founded WE To Fight Child Labour. Now The WE Brand Promotes Products Made By Children.](https://www.canadalandshow.com/craig-kielburger-founded-we-to-fight-child-labour-now-the-we-brand-promotes-products-made-by-children/ "Craig Kielburger Founded WE To Fight Child Labour. Now The WE Brand Promotes Products Made By Children. By Jaren Kerr") *CANADALAND*
 
 [Peru’s president soars as he channels anger over corruption](https://apnews.com/5221249ef09d4e2cbdfa20e4b8189575 "Peru’s president soars as he channels anger over corruption. By Franklin Briceno") *AP*
 

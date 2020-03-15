@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2020
+- _Normal People_ by Sally Rooney (2019)
 - _Every Tool's a Hammer: Life Is What You Make It_ by Adam Savage (2019)
 - _Secondhand: Travels in the New Global Garage Sale_ by Adam Minter (2019)
 - _Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking_ by Samin Nosrat (2017)

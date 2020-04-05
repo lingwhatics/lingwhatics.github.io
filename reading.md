@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2020
+- _Saga, Vol. 3 (Saga #3)_ by Brian K. Vaughan (Writer), Fiona Staples (Artist) (2014)
 - _Normal People_ by Sally Rooney (2019)
 - _Every Tool's a Hammer: Life Is What You Make It_ by Adam Savage (2019)
 - _Secondhand: Travels in the New Global Garage Sale_ by Adam Minter (2019)
@@ -34,7 +35,7 @@ permalink: /reading/
 - _Motherhood_ by Sheila Heti (2018)
 - _Born a Crime_ by Trevor Noah (2016)
 - _French Exit_ by Patrick deWitt (2018)
-- _Saga, Vol. 2 (Saga #2)_ by Brian K. Vaughan (Writer),  Fiona Staples (Artist) (2013)
+- _Saga, Vol. 2 (Saga #2)_ by Brian K. Vaughan (Writer), Fiona Staples (Artist) (2013)
 - _The Beast: Making a Living on a Dying Planet_ The Beast: Making a Living on a Dying Planet
 by Hugh Goldring,  Nicole Marie Burton (Contributor) (2018)
 - _The Prodigal Tongue: The Love-Hate Relationship Between American and British English_ by Lynne Murphy (2018)

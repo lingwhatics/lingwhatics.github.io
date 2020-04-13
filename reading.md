@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2020
+- _Marcher sur un Lego et autres raisons d’aimer la vie_ by Stéphane Dompierre (2019)
 - _Saga, Vol. 3 (Saga #3)_ by Brian K. Vaughan (Writer), Fiona Staples (Artist) (2014)
 - _Normal People_ by Sally Rooney (2019)
 - _Every Tool's a Hammer: Life Is What You Make It_ by Adam Savage (2019)

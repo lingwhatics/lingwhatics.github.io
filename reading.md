@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2020
+- _This Is How You Lose the Time War_ by Amal El-Mohtar, Max Gladstone (2019)
 - _Once Upon a Time in France (Il était une fois en France #1-6)_ by Fabien Nury,  Sylvain Vallée (Illustrator) (2019)
 - _Marcher sur un Lego et autres raisons d’aimer la vie_ by Stéphane Dompierre (2019)
 - _Saga, Vol. 3 (Saga #3)_ by Brian K. Vaughan (Writer), Fiona Staples (Artist) (2014)

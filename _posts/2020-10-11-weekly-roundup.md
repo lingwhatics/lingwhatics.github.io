@@ -19,5 +19,5 @@ tags: []
 
 ### Tweet
 
-<blockquote class=“twitter-tweet”><p lang=“en” dir=“ltr”>God damn it Excel that wasn&#39;t a date field <a href=“https://t.co/2y5y4YO3VY”>https://t.co/2y5y4YO3VY</a></p>&mdash; SwiftOnSecurity (@SwiftOnSecurity) <a href=“https://twitter.com/SwiftOnSecurity/status/1311442032615981058?ref_src=twsrc%5Etfw”>September 30, 2020</a></blockquote> <script async src=“https://platform.twitter.com/widgets.js” charset=“utf-8”></script>
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">God damn it Excel that wasn&#39;t a date field <a href="https://t.co/2y5y4YO3VY">https://t.co/2y5y4YO3VY</a></p>&mdash; Spooky👻OnSecurity (@SwiftOnSecurity) <a href="https://twitter.com/SwiftOnSecurity/status/1311442032615981058?ref_src=twsrc%5Etfw">September 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

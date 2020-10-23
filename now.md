@@ -18,6 +18,6 @@ What's Next:
 
 - Baby things
 - Learning to paint (I received watercolours and a large how to paint book for Christmas).
-- Figuring out when travel will be possible to see family
+- Figuring out when travel will be possible to see family.
 
 Idea for this came from [Peter](https://ruk.ca/content/what-am-i-doing-now "What am I doing /now").

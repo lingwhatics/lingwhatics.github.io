@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2020
+- _The Wagers_ by Sean Michaels (2019)
 - _The Body: A Guide for Occupants_ by Bill Bryson (2019)
 - _Syllabus: Notes from an Accidental Professor_ by Lynda Barry (2014)
 - _This Is How You Lose the Time War_ by Amal El-Mohtar, Max Gladstone (2019)

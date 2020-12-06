@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2020
+- _Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool_ by Emily Oster (2019)
 - _The Wagers_ by Sean Michaels (2019)
 - _The Body: A Guide for Occupants_ by Bill Bryson (2019)
 - _Syllabus: Notes from an Accidental Professor_ by Lynda Barry (2014)

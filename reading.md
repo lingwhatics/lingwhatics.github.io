@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2020
+- _Eat Sleep Work Repeat: 30 Ways to Fix Your Work Culture and Fall in Love with Your Job Again_ by Bruce Daisley (2020)
 - _Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool_ by Emily Oster (2019)
 - _The Wagers_ by Sean Michaels (2019)
 - _The Body: A Guide for Occupants_ by Bill Bryson (2019)

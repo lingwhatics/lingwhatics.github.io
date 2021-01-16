@@ -6,6 +6,9 @@ permalink: /reading/
 
 ## Books I have been reading
 
+### 2021
+- _Lying for Money: How Legendary Frauds Reveal the Workings of Our World_ by Dan Davies (2018)
+
 ### 2020
 - _The New One: Painfully True Stories from a Reluctant Dad_ by Mike Birbiglia (2020)
 - _Eat Sleep Work Repeat: 30 Ways to Fix Your Work Culture and Fall in Love with Your Job Again_ by Bruce Daisley (2020)

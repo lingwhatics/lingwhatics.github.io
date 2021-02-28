@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2021
+- _Making Comics_ by Lynda Barry (2019)
 - _Simone Simoneau: chronique d'une femme en politique_ by Valérie Plante (scénariste),  Delphie Côté-Lacroix (illustratrice) (2020)
 - _How to Do Nothing: Resisting the Attention Economy_ by Jenny Odell (2019)
 - _Lying for Money: How Legendary Frauds Reveal the Workings of Our World_ by Dan Davies (2018)

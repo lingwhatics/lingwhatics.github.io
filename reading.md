@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2021
+- _The Case of the Missing Men_ by Kris Bertin,  Alexander Forbes (Visual Art) (2017)
 - _The Mirage Factory: Illusion, Imagination, and the Invention of Los Angeles_ by Gary Krist (2018)
 - _Making Comics_ by Lynda Barry (2019)
 - _Simone Simoneau: chronique d'une femme en politique_ by Valérie Plante (scénariste),  Delphie Côté-Lacroix (illustratrice) (2020)

@@ -9,7 +9,7 @@ categories:
 tags: []
 ---
 
-### Articles/Columns
+## Articles/Columns
 
 [Commuting, and Confronting History, on a Remote Canadian Railway](https://www.nytimes.com/2020/07/06/travel/tshiuetin-railroad-canada.html "Commuting, and Confronting History, on a Remote Canadian Railway. By Chloë Ellingson") *The New York Times*
 
@@ -17,6 +17,6 @@ tags: []
 
 [Why Latin America’s Bet on Local Government Is Ambitious – and Risky](https://www.americasquarterly.org/article/why-latin-americas-bet-on-local-government-is-ambitious-and-risky/ "Why Latin America’s Bet on Local Government Is Ambitious – and Risky. By Roberto Simon And Emilie Sweigart") *Americas Quarterly*
 
-### Tweet
+## Tweet
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="und" dir="ltr"><a href="https://t.co/BktbjLUahJ">pic.twitter.com/BktbjLUahJ</a></p>&mdash; Todd Alcott (@toddalcott) <a href="https://twitter.com/toddalcott/status/1372517606133956611?ref_src=twsrc%5Etfw">March 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

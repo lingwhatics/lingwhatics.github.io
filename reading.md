@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2021
+- _The Field Guide to Dumb Birds of North America_ by Matt Kracht (2019)
 - _Portraits du Mile End_ by Pascal Girard,  Michel Hellman (2019)
 - _The Case of the Missing Men_ by Kris Bertin,  Alexander Forbes (Visual Art) (2017)
 - _The Mirage Factory: Illusion, Imagination, and the Invention of Los Angeles_ by Gary Krist (2018)

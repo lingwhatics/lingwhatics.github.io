@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2021
+- _Anglo Guide to Survival in Quebec_ by Josh Freed (1983)
 - _Limes_ by Corey Mintz (2021)
 - _Rebecca & Lucie mènent l’enquête_ by Pascal Girard (2021)
 - _The Field Guide to Dumb Birds of North America_ by Matt Kracht (2019)

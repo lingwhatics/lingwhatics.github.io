@@ -11,7 +11,7 @@ tags: []
 
 ## Articles/Columns
 
-[What do we want electric vehicles to do for us, anyway?](https://www.tvo.org/article/what-do-we-want-electric-vehicles-to-do-for-us-anyway "What do we want electric vehicles to do for us, anyway? By John Michael McGrath") **
+[What do we want electric vehicles to do for us, anyway?](https://www.tvo.org/article/what-do-we-want-electric-vehicles-to-do-for-us-anyway "What do we want electric vehicles to do for us, anyway? By John Michael McGrath") *TVO*
 
 [The failing of governance of Toronto](http://spacing.ca/toronto/2021/07/19/lorinc-the-failing-of-governance-of-toronto/ "John Lorinc: The failing of governance of Toronto") *Spacing*
 

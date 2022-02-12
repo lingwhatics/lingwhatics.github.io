@@ -6,6 +6,10 @@ permalink: /reading/
 
 ## Books I have been reading
 
+### 2022
+- _Ru_ by Kim Thúy (2009)
+- _The Elusive Trait_ by Eric Li (n.d.)
+
 ### 2021
 - _100 ans de bus à Montréal_ by Benoît Clairoux,  Jaysen Constantineau,  Robert Lacombe,  Jean-François Lacourse (2019)
 - _Anglo Guide to Survival in Quebec_ by Josh Freed (1983)

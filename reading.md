@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2022
+- _Indians on Vacation_ by Thomas King (2020)
 - _I Will Judge You by Your Bookshelf_ by Grant Snider (2020)
 - _Ru_ by Kim Thúy (2009)
 - _The Elusive Trait_ by Eric Li (n.d.)

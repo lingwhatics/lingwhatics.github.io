@@ -15,7 +15,7 @@ tags: []
 
 [Urban planning is not a science](http://spacing.ca/toronto/2022/07/21/urban-planning-is-not-a-science/ "Urban planning is not a science. By Giulio Cescasto") *Spacing*
 
-[Au cœur de la diaspora | Deep in the Diaspora](https://isabellebt.substack.com/p/au-cur-de-la-diaspora-deep-in-the "Au cœur de la diaspora | Deep in the Diaspora. By Isabelle Bourgeault-Tassé") *La Tourtière*
+[Au cœur de la diaspora \| Deep in the Diaspora](https://isabellebt.substack.com/p/au-cur-de-la-diaspora-deep-in-the "Au cœur de la diaspora / Deep in the Diaspora. By Isabelle Bourgeault-Tassé") *La Tourtière*
 
 ## Tweet
 

@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2022
+- _Bâtisseurs d'Amérique: Des canadiens français qui ont fait l'histoire_ (2016)
 - _J'aime les filles_ by Diane Obomsawin (2014)
 - _Indians on Vacation_ by Thomas King (2020)
 - _I Will Judge You by Your Bookshelf_ by Grant Snider (2020)

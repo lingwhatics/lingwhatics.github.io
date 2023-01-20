@@ -7,7 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2023
-
+- _Arbitrary Lines: How Zoning Broke the American City and How to Fix It_ by M. Nolan Gray (2022)
 
 ### 2022
 - _How to Tell a Story: The Essential Guide to Memorable Storytelling from The Moth_ by The Moth,  Meg Bowles,  Catherine Burns, Jenifer Hixon,  Sarah Austin Jenness,  Kate Tellers, Padma Lakshmi,  Chenjerai Kumanyika (2022) [Audiobook]

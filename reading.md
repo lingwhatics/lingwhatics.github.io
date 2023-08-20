@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2023
+- _The Importance of Being Interested: Adventures in Scientific Curiosity_ by Robin Ince (2021)
 - _Chroniques de jeunesse_ by Guy Delisle (2021)
 - _Dream States: Smart Cities, Technology, and the Pursuit of Urban Utopias_ by John Lorinc (2022)
 - _Arbitrary Lines: How Zoning Broke the American City and How to Fix It_ by M. Nolan Gray (2022)

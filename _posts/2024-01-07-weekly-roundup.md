@@ -12,6 +12,10 @@ The first weekly roundup of the year (and first since before Christmas). I think
 
 ## Articles
 
+[Why People Hate Maths, and Why You Should Love It](https://scilogs.spektrum.de/hlf/why-people-hate-maths-and-why-you-should-love-it/ "Why People Hate Maths, and Why You Should Love It. By Sophie Maclean") **
+
+[It’s time to ban ‘right-on-red’](https://www.fastcompany.com/90908929/its-time-for-a-nationwide-ban-of-right-on-red "It’s time to ban ‘right-on-red’. By David Zipper") *Fast Company*
+
 [We must urgently reinvent public transit for the post-pandemic world](https://www.theglobeandmail.com/opinion/article-we-must-urgently-reinvent-public-transit-for-the-postpandemic-world/ "We must urgently reinvent public transit for the post-pandemic world. By Andy Byford") *The Globe and Mail*
  
 [The Future of Public Parks

@@ -6,6 +6,9 @@ permalink: /reading/
 
 ## Books I have been reading
 
+### 2024
+- _Frida Kahlo: Her Life, Her Work, Her Home_ by Francisco de la Mora (2023)
+
 ### 2023
 - _Police lunaire_ by Tom Gauld (2016)
 - _El Mesías_ by Mark Bellido and illustrated by Wauter Mannaert (2015)

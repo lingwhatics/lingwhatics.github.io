@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2024
+- _Le Monde sans fin_ by Jean-Marc Jancovici, Christophe Blain (Illustrator) (2021)
 - _Frida Kahlo: Her Life, Her Work, Her Home_ by Francisco de la Mora (2023)
 
 ### 2023

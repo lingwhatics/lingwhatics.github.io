@@ -17,7 +17,7 @@ In March 2023, we took a week long trip to London and, while it was a good trip,
 We still walked a lot and this map shows the tracks we took each day. The colours are mentioned in the titles for each day.
 
 <!-- map inclusion from https://jayrobwilliams.com/posts/2020/09/jekyll-html -->
-<iframe src="/images/london_walks_map.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="/images/london23_walks_map.html" height="600px" width="100%" style="border:none;"></iframe>
 
 ## Day 0 (April 21)
 

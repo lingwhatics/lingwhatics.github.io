@@ -16,7 +16,6 @@ The weekly posts sort of fell off while biking season started and I have been do
 
 [I’m the Draft List at This Brewery and No, You Can’t Have a Light Beer](https://www.mcsweeneys.net/articles/im-the-draft-list-at-this-brewery-and-no-you-cant-have-a-light-beer "I’m the Draft List at This Brewery and No, You Can’t Have a Light Beer. by Emily Delaney") *McSweeney's*
 
-[How TfL’s simple pop-up message led to a significant drop in paper ticket sales
-](https://www.ianvisits.co.uk/articles/how-tfls-simple-pop-up-message-led-to-a-significant-drop-in-paper-ticket-sales-71920/ "") *Ian Visits*
+[How TfL’s simple pop-up message led to a significant drop in paper ticket sales](https://www.ianvisits.co.uk/articles/how-tfls-simple-pop-up-message-led-to-a-significant-drop-in-paper-ticket-sales-71920/) *Ian Visits*
 
 [Your non-linear problem of 90% utilization](https://longform.asmartbear.com/utilization)

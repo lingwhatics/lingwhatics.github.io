@@ -17,4 +17,4 @@ tags: []
 
 ## Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Why is pedestrian and cycling infrastructure that is not a death trap for up to half the year even something we have to demand? <a href="https://t.co/cG2On1qST1">pic.twitter.com/cG2On1qST1</a></p>&mdash; Dave Scrivener (@davescrivener) <a href="https://twitter.com/davescrivener/status/1595027324386385922?ref_src=twsrc%5Etfw">November 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">Why is pedestrian and cycling infrastructure that is not a death trap for up to half the year even something we have to demand? <a href="https://t.co/cG2On1qST1">pic.twitter.com/cG2On1qST1</a></p>&mdash; Dave Scrivener (@davescrivener) <a href="https://twitter.com/davescrivener/status/1595027324386385922?ref_src=twsrc%5Etfw">November 22, 2022</a></blockquote>

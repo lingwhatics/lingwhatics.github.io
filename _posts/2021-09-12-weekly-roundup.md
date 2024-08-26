@@ -19,4 +19,4 @@ tags: []
 
 ## Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Seven Crows<br>Alex Colville<br>1980 <a href="https://t.co/yLDzLAoiHR">pic.twitter.com/yLDzLAoiHR</a></p>&mdash; Canadian Paintings (@CanadaPaintings) <a href="https://twitter.com/CanadaPaintings/status/1435586718632083472?ref_src=twsrc%5Etfw">September 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">Seven Crows<br>Alex Colville<br>1980 <a href="https://t.co/yLDzLAoiHR">pic.twitter.com/yLDzLAoiHR</a></p>&mdash; Canadian Paintings (@CanadaPaintings) <a href="https://twitter.com/CanadaPaintings/status/1435586718632083472?ref_src=twsrc%5Etfw">September 8, 2021</a></blockquote>

@@ -19,4 +19,4 @@ tags: []
 
 ## Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Evening Light, Spring, Tenth Street Bridge<br>Illingworth Kerr<br>1985 <a href="https://t.co/GYarkBCXRE">pic.twitter.com/GYarkBCXRE</a></p>&mdash; Canadian Paintings (@CanadaPaintings) <a href="https://twitter.com/CanadaPaintings/status/1505679326334881799?ref_src=twsrc%5Etfw">March 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">Evening Light, Spring, Tenth Street Bridge<br>Illingworth Kerr<br>1985 <a href="https://t.co/GYarkBCXRE">pic.twitter.com/GYarkBCXRE</a></p>&mdash; Canadian Paintings (@CanadaPaintings) <a href="https://twitter.com/CanadaPaintings/status/1505679326334881799?ref_src=twsrc%5Etfw">March 20, 2022</a></blockquote>

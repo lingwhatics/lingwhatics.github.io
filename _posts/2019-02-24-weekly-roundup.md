@@ -22,5 +22,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Yes, bats can swim! <a href="https://t.co/bKSEkxtrxB">pic.twitter.com/bKSEkxtrxB</a></p>&mdash; 41 Strange (@41Strange) <a href="https://twitter.com/41Strange/status/1096980628996640768?ref_src=twsrc%5Etfw">February 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">Yes, bats can swim! <a href="https://t.co/bKSEkxtrxB">pic.twitter.com/bKSEkxtrxB</a></p>&mdash; 41 Strange (@41Strange) <a href="https://twitter.com/41Strange/status/1096980628996640768?ref_src=twsrc%5Etfw">February 17, 2019</a></blockquote>

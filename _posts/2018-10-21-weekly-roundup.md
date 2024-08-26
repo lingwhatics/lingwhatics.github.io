@@ -21,4 +21,4 @@ tags: []
 [Where Have All The Riders Gone?](https://stevemunro.ca/2018/10/17/where-have-all-the-riders-gone-2/ "Where Have All The Riders Gone? By Steve Munro")
 
 ### Tweet
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">App-based food delivery in Toronto is so much worse than it should be. “I can’t find your building!” Well ... ok, you know about addresses on buildings?</p>&mdash; Chris Selley (@cselley) <a href="https://twitter.com/cselley/status/1052747605770293248?ref_src=twsrc%5Etfw">October 18, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">App-based food delivery in Toronto is so much worse than it should be. “I can’t find your building!” Well ... ok, you know about addresses on buildings?</p>&mdash; Chris Selley (@cselley) <a href="https://twitter.com/cselley/status/1052747605770293248?ref_src=twsrc%5Etfw">October 18, 2018</a></blockquote>

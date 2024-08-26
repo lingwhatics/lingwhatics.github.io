@@ -19,4 +19,4 @@ This week I read _The Case of the Missing Men_. A graphic novel mystery that was
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">&quot;Draw Bridge Ahead&quot; <a href="https://t.co/ttTYjMsEAG">pic.twitter.com/ttTYjMsEAG</a></p>&mdash; Arthur Charpentier (@freakonometrics) <a href="https://twitter.com/freakonometrics/status/1375083111713759233?ref_src=twsrc%5Etfw">March 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">&quot;Draw Bridge Ahead&quot; <a href="https://t.co/ttTYjMsEAG">pic.twitter.com/ttTYjMsEAG</a></p>&mdash; Arthur Charpentier (@freakonometrics) <a href="https://twitter.com/freakonometrics/status/1375083111713759233?ref_src=twsrc%5Etfw">March 25, 2021</a></blockquote>

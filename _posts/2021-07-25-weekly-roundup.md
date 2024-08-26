@@ -19,4 +19,4 @@ tags: []
 
 ## Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Science 💙💙💙🏴‍☠️ <a href="https://t.co/VgvMxcA5n2">pic.twitter.com/VgvMxcA5n2</a></p>&mdash; Molly Rogers (@JollyMollyRoger) <a href="https://twitter.com/JollyMollyRoger/status/1414735598150209537?ref_src=twsrc%5Etfw">July 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">Science 💙💙💙🏴‍☠️ <a href="https://t.co/VgvMxcA5n2">pic.twitter.com/VgvMxcA5n2</a></p>&mdash; Molly Rogers (@JollyMollyRoger) <a href="https://twitter.com/JollyMollyRoger/status/1414735598150209537?ref_src=twsrc%5Etfw">July 12, 2021</a></blockquote>

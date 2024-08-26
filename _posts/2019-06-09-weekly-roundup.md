@@ -21,4 +21,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Is this a Coaches Corner Transcribed thing??</p>&mdash; Alison Jean (@Jalison100) <a href="https://twitter.com/Jalison100/status/1137245215218122752?ref_src=twsrc%5Etfw">June 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet"><p lang="en" dir="ltr">Is this a Coaches Corner Transcribed thing??</p>&mdash; Alison Jean (@Jalison100) <a href="https://twitter.com/Jalison100/status/1137245215218122752?ref_src=twsrc%5Etfw">June 8, 2019</a></blockquote>

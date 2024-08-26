@@ -21,4 +21,4 @@ Last week, I went to Paris with the family to walk around and enjoy spring weath
 
 ## Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">No lies detected 🥸 <a href="https://t.co/V9Rzfhq71m">pic.twitter.com/V9Rzfhq71m</a></p>&mdash; Angela Bassa 🌻 (@AngeBassa) <a href="https://twitter.com/AngeBassa/status/1517609219150725121?ref_src=twsrc%5Etfw">April 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">No lies detected 🥸 <a href="https://t.co/V9Rzfhq71m">pic.twitter.com/V9Rzfhq71m</a></p>&mdash; Angela Bassa 🌻 (@AngeBassa) <a href="https://twitter.com/AngeBassa/status/1517609219150725121?ref_src=twsrc%5Etfw">April 22, 2022</a></blockquote>

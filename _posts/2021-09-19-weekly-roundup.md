@@ -21,4 +21,4 @@ This was my first week back at work after my 19 weeks of parental leave. It was 
 
 ## Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">i have a strong plan<br><br>a cast-iron plan<br>well seasoned</p>&mdash; Sean Michaels (@swanmichaels) <a href="https://twitter.com/swanmichaels/status/1436144391400329217?ref_src=twsrc%5Etfw">September 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">i have a strong plan<br><br>a cast-iron plan<br>well seasoned</p>&mdash; Sean Michaels (@swanmichaels) <a href="https://twitter.com/swanmichaels/status/1436144391400329217?ref_src=twsrc%5Etfw">September 10, 2021</a></blockquote>

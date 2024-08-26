@@ -20,4 +20,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">recently, I was asked how those &quot;facial recognition&quot; algorithms were working.... the only thing that came to my mind was <a href="https://t.co/2CNVEy4Cnr">pic.twitter.com/2CNVEy4Cnr</a></p>&mdash; Arthur Charpentier 💥 (@freakonometrics) <a href="https://twitter.com/freakonometrics/status/1124656799200698369?ref_src=twsrc%5Etfw">May 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">recently, I was asked how those &quot;facial recognition&quot; algorithms were working.... the only thing that came to my mind was <a href="https://t.co/2CNVEy4Cnr">pic.twitter.com/2CNVEy4Cnr</a></p>&mdash; Arthur Charpentier 💥 (@freakonometrics) <a href="https://twitter.com/freakonometrics/status/1124656799200698369?ref_src=twsrc%5Etfw">May 4, 2019</a></blockquote>

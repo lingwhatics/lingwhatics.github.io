@@ -19,4 +19,4 @@ tags: []
 
 ## Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Elevator in a March Wind<br>Brent Laycock<br>1982 <a href="https://t.co/JQGCm3g4q4">pic.twitter.com/JQGCm3g4q4</a></p>&mdash; Canadian Paintings (@CanadaPaintings) <a href="https://twitter.com/CanadaPaintings/status/1499120609384706050?ref_src=twsrc%5Etfw">March 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">Elevator in a March Wind<br>Brent Laycock<br>1982 <a href="https://t.co/JQGCm3g4q4">pic.twitter.com/JQGCm3g4q4</a></p>&mdash; Canadian Paintings (@CanadaPaintings) <a href="https://twitter.com/CanadaPaintings/status/1499120609384706050?ref_src=twsrc%5Etfw">March 2, 2022</a></blockquote>

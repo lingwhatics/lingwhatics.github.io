@@ -19,4 +19,4 @@ tags: []
 
 ## Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Cars are stilts. It might not be a perfect metaphor, but I stand by it. <a href="https://t.co/MpvSF5xhP0">pic.twitter.com/MpvSF5xhP0</a></p>&mdash; Robbie Nicol (@RobbieNicol) <a href="https://twitter.com/RobbieNicol/status/1413634635339235334?ref_src=twsrc%5Etfw">July 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">Cars are stilts. It might not be a perfect metaphor, but I stand by it. <a href="https://t.co/MpvSF5xhP0">pic.twitter.com/MpvSF5xhP0</a></p>&mdash; Robbie Nicol (@RobbieNicol) <a href="https://twitter.com/RobbieNicol/status/1413634635339235334?ref_src=twsrc%5Etfw">July 9, 2021</a></blockquote>

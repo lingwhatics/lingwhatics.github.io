@@ -19,4 +19,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">&quot;Is this InkJet any good?&quot; <br>&quot;Sure – we sell it to royalty&quot; <br>&quot;Princesses?&quot; <br>&quot;Mate, it prints ALL the letters&quot;</p>&mdash; Andy Ryan (@ItsAndyRyan) <a href="https://twitter.com/ItsAndyRyan/status/1359273367552024578?ref_src=twsrc%5Etfw">February 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">&quot;Is this InkJet any good?&quot; <br>&quot;Sure – we sell it to royalty&quot; <br>&quot;Princesses?&quot; <br>&quot;Mate, it prints ALL the letters&quot;</p>&mdash; Andy Ryan (@ItsAndyRyan) <a href="https://twitter.com/ItsAndyRyan/status/1359273367552024578?ref_src=twsrc%5Etfw">February 9, 2021</a></blockquote>

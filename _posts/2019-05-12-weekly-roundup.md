@@ -20,4 +20,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">History of Physics <a href="https://t.co/QW10QauQK9">pic.twitter.com/QW10QauQK9</a></p>&mdash; Philosophy Matters (@PhilosophyMttrs) <a href="https://twitter.com/PhilosophyMttrs/status/1127309921807163392?ref_src=twsrc%5Etfw">May 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">History of Physics <a href="https://t.co/QW10QauQK9">pic.twitter.com/QW10QauQK9</a></p>&mdash; Philosophy Matters (@PhilosophyMttrs) <a href="https://twitter.com/PhilosophyMttrs/status/1127309921807163392?ref_src=twsrc%5Etfw">May 11, 2019</a></blockquote>

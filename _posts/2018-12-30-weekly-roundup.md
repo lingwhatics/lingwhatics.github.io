@@ -21,5 +21,4 @@ tags: []
 [Behind the Lens: Love Art Deco Architecture? Check Out \[Miami\] City Hall.](https://www.governing.com/topics/transportation-infrastructure/gov-Miami-city-hall-art-deco.html "Behind the Lens: Love Art Deco Architecture? Check Out This City Hall. By David Kidd") *Governing*
 
 ### Tweet
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Me: I prefer “gay” and would like you to refer to me that way. <br><br>Woman: I don’t like using the word “gay”. I call you homosexuals, because that’s what you are. <br><br>Me: Ok Helen. <br><br>Woman: My name is Joan. <br><br>Me: I prefer “Helen”.</p>&mdash; RevDaniel🎄 (@RevDaniel) <a href="https://twitter.com/RevDaniel/status/1078340566939811842?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">Me: I prefer “gay” and would like you to refer to me that way. <br><br>Woman: I don’t like using the word “gay”. I call you homosexuals, because that’s what you are. <br><br>Me: Ok Helen. <br><br>Woman: My name is Joan. <br><br>Me: I prefer “Helen”.</p>&mdash; RevDaniel🎄 (@RevDaniel) <a href="https://twitter.com/RevDaniel/status/1078340566939811842?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>

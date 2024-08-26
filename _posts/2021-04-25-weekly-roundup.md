@@ -19,4 +19,4 @@ tags: []
 
 ## Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="in" dir="ltr">Qilalugaq (Beluga)<br>Tim Pitsiulak<br>2017 <a href="https://t.co/7JrqwnHEw6">pic.twitter.com/7JrqwnHEw6</a></p>&mdash; Canadian Paintings (@CanadaPaintings) <a href="https://twitter.com/CanadaPaintings/status/1262035317684609025?ref_src=twsrc%5Etfw">May 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="in" dir="ltr">Qilalugaq (Beluga)<br>Tim Pitsiulak<br>2017 <a href="https://t.co/7JrqwnHEw6">pic.twitter.com/7JrqwnHEw6</a></p>&mdash; Canadian Paintings (@CanadaPaintings) <a href="https://twitter.com/CanadaPaintings/status/1262035317684609025?ref_src=twsrc%5Etfw">May 17, 2020</a></blockquote>

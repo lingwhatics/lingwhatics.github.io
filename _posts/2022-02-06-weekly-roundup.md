@@ -19,4 +19,4 @@ tags: []
 
 ## Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Untitled - Grain elevators in winter<br>Robert Newton Hurley<br>1967 <a href="https://t.co/sxFuQTduEc">pic.twitter.com/sxFuQTduEc</a></p>&mdash; Canadian Paintings (@CanadaPaintings) <a href="https://twitter.com/CanadaPaintings/status/1487364906152202244?ref_src=twsrc%5Etfw">January 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">Untitled - Grain elevators in winter<br>Robert Newton Hurley<br>1967 <a href="https://t.co/sxFuQTduEc">pic.twitter.com/sxFuQTduEc</a></p>&mdash; Canadian Paintings (@CanadaPaintings) <a href="https://twitter.com/CanadaPaintings/status/1487364906152202244?ref_src=twsrc%5Etfw">January 29, 2022</a></blockquote>

@@ -19,4 +19,4 @@ tags: []
 
 ## Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Harvest Moon<br>David Thauberger<br>2018 <a href="https://t.co/MycauARUcm">pic.twitter.com/MycauARUcm</a></p>&mdash; Canadian Paintings (@CanadaPaintings) <a href="https://twitter.com/CanadaPaintings/status/1440085612657262593?ref_src=twsrc%5Etfw">September 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">Harvest Moon<br>David Thauberger<br>2018 <a href="https://t.co/MycauARUcm">pic.twitter.com/MycauARUcm</a></p>&mdash; Canadian Paintings (@CanadaPaintings) <a href="https://twitter.com/CanadaPaintings/status/1440085612657262593?ref_src=twsrc%5Etfw">September 20, 2021</a></blockquote>

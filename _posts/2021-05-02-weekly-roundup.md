@@ -21,4 +21,4 @@ The start of my four months of parental leave has arrived. We are going to have 
 
 ## Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">went through old photos today and i want y’all to know that this is how my daddy rolled up to my kindergarten graduation. <br><br>just doing the absolute most for no good reason. <a href="https://t.co/eSAh4ZzCEk">pic.twitter.com/eSAh4ZzCEk</a></p>&mdash; EricaJoy (@EricaJoy) <a href="https://twitter.com/EricaJoy/status/1340148718289317888?ref_src=twsrc%5Etfw">December 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">went through old photos today and i want y’all to know that this is how my daddy rolled up to my kindergarten graduation. <br><br>just doing the absolute most for no good reason. <a href="https://t.co/eSAh4ZzCEk">pic.twitter.com/eSAh4ZzCEk</a></p>&mdash; EricaJoy (@EricaJoy) <a href="https://twitter.com/EricaJoy/status/1340148718289317888?ref_src=twsrc%5Etfw">December 19, 2020</a></blockquote>

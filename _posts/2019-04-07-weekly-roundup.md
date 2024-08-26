@@ -20,4 +20,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There should be a hotline you can call where you can safely pronounce words you&#39;ve only ever read out loud for the first time, and they say &quot;oh sweetie&quot; and kindly explain how it&#39;s pronounced.</p>&mdash; potch (@potch) <a href="https://twitter.com/potch/status/1114299634959044608?ref_src=twsrc%5Etfw">April 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">There should be a hotline you can call where you can safely pronounce words you&#39;ve only ever read out loud for the first time, and they say &quot;oh sweetie&quot; and kindly explain how it&#39;s pronounced.</p>&mdash; potch (@potch) <a href="https://twitter.com/potch/status/1114299634959044608?ref_src=twsrc%5Etfw">April 5, 2019</a></blockquote>

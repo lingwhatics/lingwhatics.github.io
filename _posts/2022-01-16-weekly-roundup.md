@@ -19,4 +19,4 @@ tags: []
 
 ## Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="de" dir="ltr">Winter Northern Alberta<br>Virginia Mitchell<br>1973 <a href="https://t.co/svxVzoBM0Z">pic.twitter.com/svxVzoBM0Z</a></p>&mdash; Canadian Paintings (@CanadaPaintings) <a href="https://twitter.com/CanadaPaintings/status/1479558207882379264?ref_src=twsrc%5Etfw">January 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="de" dir="ltr">Winter Northern Alberta<br>Virginia Mitchell<br>1973 <a href="https://t.co/svxVzoBM0Z">pic.twitter.com/svxVzoBM0Z</a></p>&mdash; Canadian Paintings (@CanadaPaintings) <a href="https://twitter.com/CanadaPaintings/status/1479558207882379264?ref_src=twsrc%5Etfw">January 7, 2022</a></blockquote>

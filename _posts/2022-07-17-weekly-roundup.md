@@ -19,4 +19,4 @@ tags: []
 
 ## Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Birds Aren&#39;t Real<br>Jana Rayne MacDonald<br>2022 <a href="https://t.co/hXshrOnnb6">pic.twitter.com/hXshrOnnb6</a></p>&mdash; Canadian Paintings (@CanadaPaintings) <a href="https://twitter.com/CanadaPaintings/status/1546218197304483840?ref_src=twsrc%5Etfw">July 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">Birds Aren&#39;t Real<br>Jana Rayne MacDonald<br>2022 <a href="https://t.co/hXshrOnnb6">pic.twitter.com/hXshrOnnb6</a></p>&mdash; Canadian Paintings (@CanadaPaintings) <a href="https://twitter.com/CanadaPaintings/status/1546218197304483840?ref_src=twsrc%5Etfw">July 10, 2022</a></blockquote>

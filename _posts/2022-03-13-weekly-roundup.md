@@ -19,4 +19,4 @@ tags: []
 
 ## Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">One more time for the people at the back: It&#39;s Impossible to Speak Without An Accent! <a href="https://t.co/DP7LJlKpyL">https://t.co/DP7LJlKpyL</a></p>&mdash; Minority Languages 🇺🇦 (@MinorityLangs) <a href="https://twitter.com/MinorityLangs/status/1502934467329015813?ref_src=twsrc%5Etfw">March 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">One more time for the people at the back: It&#39;s Impossible to Speak Without An Accent! <a href="https://t.co/DP7LJlKpyL">https://t.co/DP7LJlKpyL</a></p>&mdash; Minority Languages 🇺🇦 (@MinorityLangs) <a href="https://twitter.com/MinorityLangs/status/1502934467329015813?ref_src=twsrc%5Etfw">March 13, 2022</a></blockquote>

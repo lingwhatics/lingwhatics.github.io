@@ -19,4 +19,4 @@ tags: []
 
 ## Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">&quot;French is dying, people just speak a mixture of French and English&quot;<br><br>Debunked: languages only die when and if everyone stops speaking them. That&#39;s all.</p>&mdash; Kévin Abroad | Youtube (@KevinAbroad1) <a href="https://twitter.com/KevinAbroad1/status/1397612557658165249?ref_src=twsrc%5Etfw">May 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">&quot;French is dying, people just speak a mixture of French and English&quot;<br><br>Debunked: languages only die when and if everyone stops speaking them. That&#39;s all.</p>&mdash; Kévin Abroad | Youtube (@KevinAbroad1) <a href="https://twitter.com/KevinAbroad1/status/1397612557658165249?ref_src=twsrc%5Etfw">May 26, 2021</a></blockquote>

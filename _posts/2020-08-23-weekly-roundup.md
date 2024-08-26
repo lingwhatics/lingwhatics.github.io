@@ -19,4 +19,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">who is this sign for <a href="https://t.co/EgFjgR79tY">pic.twitter.com/EgFjgR79tY</a></p>&mdash; Sam Davidson (@sdwaco) <a href="https://twitter.com/sdwaco/status/1291459680422830083?ref_src=twsrc%5Etfw">August 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">who is this sign for <a href="https://t.co/EgFjgR79tY">pic.twitter.com/EgFjgR79tY</a></p>&mdash; Sam Davidson (@sdwaco) <a href="https://twitter.com/sdwaco/status/1291459680422830083?ref_src=twsrc%5Etfw">August 6, 2020</a></blockquote>

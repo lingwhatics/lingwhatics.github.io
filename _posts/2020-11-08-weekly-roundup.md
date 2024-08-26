@@ -19,4 +19,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="und" dir="ltr"><a href="https://t.co/m5ED7lNLAS">pic.twitter.com/m5ED7lNLAS</a></p>&mdash; Why you should have a cat (@ShouldHaveCat) <a href="https://twitter.com/ShouldHaveCat/status/1324798095075512323?ref_src=twsrc%5Etfw">November 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="und" dir="ltr"><a href="https://t.co/m5ED7lNLAS">pic.twitter.com/m5ED7lNLAS</a></p>&mdash; Why you should have a cat (@ShouldHaveCat) <a href="https://twitter.com/ShouldHaveCat/status/1324798095075512323?ref_src=twsrc%5Etfw">November 6, 2020</a></blockquote>

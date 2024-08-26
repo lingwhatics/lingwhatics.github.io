@@ -19,4 +19,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We need bigger sidewalks. <a href="https://t.co/RZXBkOyZRj">pic.twitter.com/RZXBkOyZRj</a></p>&mdash; Three Geese Radius (@shawnmicallef) <a href="https://twitter.com/shawnmicallef/status/1117134396140728320?ref_src=twsrc%5Etfw">April 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet"><p lang="en" dir="ltr">We need bigger sidewalks. <a href="https://t.co/RZXBkOyZRj">pic.twitter.com/RZXBkOyZRj</a></p>&mdash; Three Geese Radius (@shawnmicallef) <a href="https://twitter.com/shawnmicallef/status/1117134396140728320?ref_src=twsrc%5Etfw">April 13, 2019</a></blockquote>

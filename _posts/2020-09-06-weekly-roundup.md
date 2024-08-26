@@ -19,4 +19,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Kittens and a $2 WrestleMania, thrift store find 😂 <a href="https://t.co/AyX82E8inO">pic.twitter.com/AyX82E8inO</a></p>&mdash; RealJesusChrysler aka Captain Clorox (@ChryslerReal) <a href="https://twitter.com/ChryslerReal/status/1300460058472480769?ref_src=twsrc%5Etfw">August 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">Kittens and a $2 WrestleMania, thrift store find 😂 <a href="https://t.co/AyX82E8inO">pic.twitter.com/AyX82E8inO</a></p>&mdash; RealJesusChrysler aka Captain Clorox (@ChryslerReal) <a href="https://twitter.com/ChryslerReal/status/1300460058472480769?ref_src=twsrc%5Etfw">August 31, 2020</a></blockquote>

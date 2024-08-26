@@ -21,4 +21,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/W4MEo7gOs8">pic.twitter.com/W4MEo7gOs8</a></p>&mdash; Eric Cabrol (@CireLorbac) <a href="https://twitter.com/CireLorbac/status/1198190382254841856?ref_src=twsrc%5Etfw">November 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet"><p lang="und" dir="ltr"><a href="https://t.co/W4MEo7gOs8">pic.twitter.com/W4MEo7gOs8</a></p>&mdash; Eric Cabrol (@CireLorbac) <a href="https://twitter.com/CireLorbac/status/1198190382254841856?ref_src=twsrc%5Etfw">November 23, 2019</a></blockquote> 

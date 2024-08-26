@@ -19,6 +19,6 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="und" dir="ltr">😍😍 <a href="https://t.co/NooR9iJfz0">pic.twitter.com/NooR9iJfz0</a></p>&mdash; Three Geese Radius (@shawnmicallef) <a href="https://twitter.com/shawnmicallef/status/1290073165872263168?ref_src=twsrc%5Etfw">August 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="und" dir="ltr">😍😍 <a href="https://t.co/NooR9iJfz0">pic.twitter.com/NooR9iJfz0</a></p>&mdash; Three Geese Radius (@shawnmicallef) <a href="https://twitter.com/shawnmicallef/status/1290073165872263168?ref_src=twsrc%5Etfw">August 2, 2020</a></blockquote>
 
 ^ How to spice up your boxy building.

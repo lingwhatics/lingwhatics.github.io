@@ -28,6 +28,6 @@ Yes, I missed last week. I was going to do it and then I didn't. Instead, I enjo
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">i am never deleting tik tok <a href="https://t.co/pNsnjSEkLQ">pic.twitter.com/pNsnjSEkLQ</a></p>&mdash; ًlys loves felix and marzia (@moominsmoons) <a href="https://twitter.com/moominsmoons/status/1162500563973525504?ref_src=twsrc%5Etfw">August 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">i am never deleting tik tok <a href="https://t.co/pNsnjSEkLQ">pic.twitter.com/pNsnjSEkLQ</a></p>&mdash; ًlys loves felix and marzia (@moominsmoons) <a href="https://twitter.com/moominsmoons/status/1162500563973525504?ref_src=twsrc%5Etfw">August 16, 2019</a></blockquote>
 
 ^ h/t to all the twitterers who dropped this in my feed 🧨 🔥

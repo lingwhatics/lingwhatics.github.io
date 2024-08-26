@@ -20,4 +20,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/4lepEqmNU4">pic.twitter.com/4lepEqmNU4</a></p>&mdash; out of context bon appetit test kitchen (@outofcontextBA) <a href="https://twitter.com/outofcontextBA/status/1202791538637578242?ref_src=twsrc%5Etfw">December 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet"><p lang="und" dir="ltr"><a href="https://t.co/4lepEqmNU4">pic.twitter.com/4lepEqmNU4</a></p>&mdash; out of context bon appetit test kitchen (@outofcontextBA) <a href="https://twitter.com/outofcontextBA/status/1202791538637578242?ref_src=twsrc%5Etfw">December 6, 2019</a></blockquote>

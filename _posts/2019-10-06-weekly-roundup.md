@@ -20,4 +20,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ME: &quot;Water is wet. Can you please confirm?&quot; <br>AMERICAN CIVIL SERVANT: &quot;You&#39;re damn right it&#39;s wet. Hold on, let me patch you onto our department head to confirm for sure.&quot; *in distance* &quot;Hey Phil! Pick up line one!&quot;</p>&mdash; Tristin Hopper (@TristinHopper) <a href="https://twitter.com/TristinHopper/status/1179093362118295552?ref_src=twsrc%5Etfw">October 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet"><p lang="en" dir="ltr">ME: &quot;Water is wet. Can you please confirm?&quot; <br>AMERICAN CIVIL SERVANT: &quot;You&#39;re damn right it&#39;s wet. Hold on, let me patch you onto our department head to confirm for sure.&quot; *in distance* &quot;Hey Phil! Pick up line one!&quot;</p>&mdash; Tristin Hopper (@TristinHopper) <a href="https://twitter.com/TristinHopper/status/1179093362118295552?ref_src=twsrc%5Etfw">October 1, 2019</a></blockquote>

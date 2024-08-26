@@ -11,7 +11,7 @@ tags: []
 
 ### Articles/Columns
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Beautiful <a href="https://t.co/vl8i4TeoBt">pic.twitter.com/vl8i4TeoBt</a></p>&mdash; mabelowilson (@NegroBuilding) <a href="https://twitter.com/NegroBuilding/status/1269059535047659521?ref_src=twsrc%5Etfw">June 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet"><p lang="en" dir="ltr">Beautiful <a href="https://t.co/vl8i4TeoBt">pic.twitter.com/vl8i4TeoBt</a></p>&mdash; mabelowilson (@NegroBuilding) <a href="https://twitter.com/NegroBuilding/status/1269059535047659521?ref_src=twsrc%5Etfw">June 6, 2020</a></blockquote>
 
 [Your Hands Are Your Greatest Kitchen Utensil](https://heated.medium.com/your-hands-are-your-greatest-kitchen-utensil-3246caaab79c "Your Hands Are Your Greatest Kitchen Utensil. By Ruby Tandoh") *Heated*
 

@@ -19,4 +19,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">For the love of god UNMUTE THIS <a href="https://t.co/MA48mit8MX">pic.twitter.com/MA48mit8MX</a></p>&mdash; Nerd Girl Says (@Rachael_Conrad) <a href="https://twitter.com/Rachael_Conrad/status/1231414301149233152?ref_src=twsrc%5Etfw">February 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tw-tweet"><p lang="en" dir="ltr">For the love of god UNMUTE THIS <a href="https://t.co/MA48mit8MX">pic.twitter.com/MA48mit8MX</a></p>&mdash; Nerd Girl Says (@Rachael_Conrad) <a href="https://twitter.com/Rachael_Conrad/status/1231414301149233152?ref_src=twsrc%5Etfw">February 23, 2020</a></blockquote>

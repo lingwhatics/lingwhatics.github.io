@@ -21,4 +21,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A powerful new Heritage Minute. Retweet, tell 2 friends &amp; share. <a href="https://t.co/oD3YOFA5n2">pic.twitter.com/oD3YOFA5n2</a></p>&mdash; Rick Mercer (@rickmercer) <a href="https://twitter.com/rickmercer/status/1257647831084605440?ref_src=twsrc%5Etfw">May 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet"><p lang="en" dir="ltr">A powerful new Heritage Minute. Retweet, tell 2 friends &amp; share. <a href="https://t.co/oD3YOFA5n2">pic.twitter.com/oD3YOFA5n2</a></p>&mdash; Rick Mercer (@rickmercer) <a href="https://twitter.com/rickmercer/status/1257647831084605440?ref_src=twsrc%5Etfw">May 5, 2020</a></blockquote>

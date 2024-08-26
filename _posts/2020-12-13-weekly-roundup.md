@@ -19,4 +19,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="fr" dir="ltr">wtf montréal? <a href="https://t.co/9r3wvlvJmA">pic.twitter.com/9r3wvlvJmA</a></p>&mdash; Simon Coulombe (@CoulSim) <a href="https://twitter.com/CoulSim/status/1337197398351900676?ref_src=twsrc%5Etfw">December 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="fr" dir="ltr">wtf montréal? <a href="https://t.co/9r3wvlvJmA">pic.twitter.com/9r3wvlvJmA</a></p>&mdash; Simon Coulombe (@CoulSim) <a href="https://twitter.com/CoulSim/status/1337197398351900676?ref_src=twsrc%5Etfw">December 11, 2020</a></blockquote>

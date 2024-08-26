@@ -21,4 +21,4 @@ tags: []
 [Cyclo Knitter: A Bicycle-Based Machine That Knits a Scarf in Five Minutes](https://www.thisiscolossal.com/2018/06/cyclo-knitter-a-bicycle-based-machine-that-knits-a-scarf-in-five-minutes/ "Cyclo Knitter: A Bicycle-Based Machine That Knits a Scarf in Five Minutes. By Kate Sierzputowski") *Colossal*
 
 ### Tweet
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">gonna make a game called Murder Simulator but it&#39;s just an RTS where you control a bunch of crows and have them steal french fries and stuff</p>&mdash; Kingdom Sharks (@RainBlackKat) <a href="https://twitter.com/RainBlackKat/status/1008009243302211584?ref_src=twsrc%5Etfw">June 16, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">gonna make a game called Murder Simulator but it&#39;s just an RTS where you control a bunch of crows and have them steal french fries and stuff</p>&mdash; Kingdom Sharks (@RainBlackKat) <a href="https://twitter.com/RainBlackKat/status/1008009243302211584?ref_src=twsrc%5Etfw">June 16, 2018</a></blockquote>

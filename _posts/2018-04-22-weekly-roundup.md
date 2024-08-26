@@ -20,5 +20,4 @@ tags: []
 [Building a Text Editor for a Digital-First Newsroom](https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21 "Building a Text Editor for a Digital-First Newsroom. By Sophia Ciocca") *Times Open*
 
 ### Tweet
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Had lunch today with my new friend we had the catch of the day fresh fish. What a beautiful bird <a href="https://t.co/BLet5Vt0We">pic.twitter.com/BLet5Vt0We</a></p>&mdash; Colin Williamson (@ColinWxchaser) <a href="https://twitter.com/ColinWxchaser/status/987118226088718336?ref_src=twsrc%5Etfw">April 19, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">Had lunch today with my new friend we had the catch of the day fresh fish. What a beautiful bird <a href="https://t.co/BLet5Vt0We">pic.twitter.com/BLet5Vt0We</a></p>&mdash; Colin Williamson (@ColinWxchaser) <a href="https://twitter.com/ColinWxchaser/status/987118226088718336?ref_src=twsrc%5Etfw">April 19, 2018</a></blockquote>

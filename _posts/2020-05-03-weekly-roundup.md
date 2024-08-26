@@ -19,4 +19,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Welland Canal Time-Lapse Upbound From Lake Ontario To Lake Erie. <a href="https://t.co/kGEZgaojYB">pic.twitter.com/kGEZgaojYB</a></p>&mdash; Welland Canal (@wellandcanal) <a href="https://twitter.com/wellandcanal/status/1255124270000345090?ref_src=twsrc%5Etfw">April 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet"><p lang="en" dir="ltr">Welland Canal Time-Lapse Upbound From Lake Ontario To Lake Erie. <a href="https://t.co/kGEZgaojYB">pic.twitter.com/kGEZgaojYB</a></p>&mdash; Welland Canal (@wellandcanal) <a href="https://twitter.com/wellandcanal/status/1255124270000345090?ref_src=twsrc%5Etfw">April 28, 2020</a></blockquote>

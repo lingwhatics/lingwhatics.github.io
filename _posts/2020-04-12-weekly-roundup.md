@@ -19,4 +19,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Not all fashion shows are cancelled 🎉 <a href="https://t.co/4jguK5artS">pic.twitter.com/4jguK5artS</a></p>&mdash; Natalia Antonova 🇺🇸🇺🇦 (@NataliaAntonova) <a href="https://twitter.com/NataliaAntonova/status/1248635045381890048?ref_src=twsrc%5Etfw">April 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet"><p lang="en" dir="ltr">Not all fashion shows are cancelled 🎉 <a href="https://t.co/4jguK5artS">pic.twitter.com/4jguK5artS</a></p>&mdash; Natalia Antonova 🇺🇸🇺🇦 (@NataliaAntonova) <a href="https://twitter.com/NataliaAntonova/status/1248635045381890048?ref_src=twsrc%5Etfw">April 10, 2020</a></blockquote>

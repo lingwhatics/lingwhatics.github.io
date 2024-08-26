@@ -20,6 +20,6 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">by 35 you should have a beautiful house, with a beautiful wife and you should ask yourself &quot;well, how did I get here?&quot;</p>&mdash; Dylan (@dylmdav) <a href="https://twitter.com/dylmdav/status/998057812491108352?ref_src=twsrc%5Etfw">May 20, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">by 35 you should have a beautiful house, with a beautiful wife and you should ask yourself &quot;well, how did I get here?&quot;</p>&mdash; Dylan (@dylmdav) <a href="https://twitter.com/dylmdav/status/998057812491108352?ref_src=twsrc%5Etfw">May 20, 2018</a></blockquote> 
 
 Sometimes twitter is still [fun](https://www.youtube.com/watch?v=5IsSpAOD6K8 "Talking Heads 'Once in a Lifetime'").

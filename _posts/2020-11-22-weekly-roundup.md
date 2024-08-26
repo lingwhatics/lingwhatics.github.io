@@ -19,4 +19,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="und" dir="ltr"><a href="https://t.co/BN6wrMm9YO">pic.twitter.com/BN6wrMm9YO</a></p>&mdash; R (@underthenettle) <a href="https://twitter.com/underthenettle/status/1328670184924700674?ref_src=twsrc%5Etfw">November 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="und" dir="ltr"><a href="https://t.co/BN6wrMm9YO">pic.twitter.com/BN6wrMm9YO</a></p>&mdash; R (@underthenettle) <a href="https://twitter.com/underthenettle/status/1328670184924700674?ref_src=twsrc%5Etfw">November 17, 2020</a></blockquote>

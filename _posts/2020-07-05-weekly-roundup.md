@@ -19,4 +19,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Scorned as Timber, Beloved of the Sky<br>Emily Carr<br>1935 <a href="https://t.co/2pHKrUcrSi">pic.twitter.com/2pHKrUcrSi</a></p>&mdash; Canadian Paintings (@CanadaPaintings) <a href="https://twitter.com/CanadaPaintings/status/1251466307989573632?ref_src=twsrc%5Etfw">April 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-dnt="true"><p lang="en" dir="ltr">Scorned as Timber, Beloved of the Sky<br>Emily Carr<br>1935 <a href="https://t.co/2pHKrUcrSi">pic.twitter.com/2pHKrUcrSi</a></p>&mdash; Canadian Paintings (@CanadaPaintings) <a href="https://twitter.com/CanadaPaintings/status/1251466307989573632?ref_src=twsrc%5Etfw">April 18, 2020</a></blockquote>

@@ -19,4 +19,4 @@ tags: []
 [Kittens and Cats: A First Reader (1911) — Cats and Captions before the Internet Age](https://publicdomainreview.org/collections/kittens-and-cats-a-first-reader-1911-cats-and-captions-before-the-internet-age/ "Kittens and Cats: A First Reader (1911) — Cats and Captions before the Internet Age") *The Public Domain Review*
 
 ### Tweet
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">WHY IS THIS THE ONLY BULLSHIT I CAN LAUGH AT ANYMORE I CANT BREATHE <a href="https://t.co/GwOes0bPj0">pic.twitter.com/GwOes0bPj0</a></p>&mdash; ari (@nightfiIm) <a href="https://twitter.com/nightfiIm/status/932523808011022336?ref_src=twsrc%5Etfw">November 20, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">WHY IS THIS THE ONLY BULLSHIT I CAN LAUGH AT ANYMORE I CANT BREATHE <a href="https://t.co/GwOes0bPj0">pic.twitter.com/GwOes0bPj0</a></p>&mdash; ari (@nightfiIm) <a href="https://twitter.com/nightfiIm/status/932523808011022336?ref_src=twsrc%5Etfw">November 20, 2017</a></blockquote>

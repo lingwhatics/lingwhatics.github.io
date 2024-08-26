@@ -20,4 +20,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I want this headline to be about this photo SO badly. <a href="https://t.co/FkZ02pkbAD">pic.twitter.com/FkZ02pkbAD</a></p>&mdash; Caro (@socarolinesays) <a href="https://twitter.com/socarolinesays/status/914343247304122368?ref_src=twsrc%5Etfw">October 1, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">I want this headline to be about this photo SO badly. <a href="https://t.co/FkZ02pkbAD">pic.twitter.com/FkZ02pkbAD</a></p>&mdash; Caro (@socarolinesays) <a href="https://twitter.com/socarolinesays/status/914343247304122368?ref_src=twsrc%5Etfw">October 1, 2017</a></blockquote>

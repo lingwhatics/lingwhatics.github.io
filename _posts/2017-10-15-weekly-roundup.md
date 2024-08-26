@@ -20,4 +20,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">thank you, toronto zoo for this quality content <a href="https://t.co/o94dm6PMYK">pic.twitter.com/o94dm6PMYK</a></p>&mdash; oSCAREwilde (@oscarewilde) <a href="https://twitter.com/oscarewilde/status/917813656813006849?ref_src=twsrc%5Etfw">October 10, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">thank you, toronto zoo for this quality content <a href="https://t.co/o94dm6PMYK">pic.twitter.com/o94dm6PMYK</a></p>&mdash; oSCAREwilde (@oscarewilde) <a href="https://twitter.com/oscarewilde/status/917813656813006849?ref_src=twsrc%5Etfw">October 10, 2017</a></blockquote>

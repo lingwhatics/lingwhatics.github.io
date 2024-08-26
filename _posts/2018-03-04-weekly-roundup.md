@@ -20,7 +20,7 @@ tags: []
 [A little girl in Toronto lost to history – and now found](https://www.theglobeandmail.com/news/a-little-girl-in-toronto-lost-to-history-and-nowfound/article38198028/ "A little girl in Toronto lost to history – and now found. By Chris Bateman") *The Globe and Mail*
 
 ### Tweet
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">im at work crying at this video of a cat watching a horror movie <a href="https://t.co/kfwd0G1HKY">pic.twitter.com/kfwd0G1HKY</a></p>&mdash; ZORAH SECURE DA BAGDAROS (@METALTEARSOLID) <a href="https://twitter.com/METALTEARSOLID/status/969315863236001792?ref_src=twsrc%5Etfw">March 1, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">im at work crying at this video of a cat watching a horror movie <a href="https://t.co/kfwd0G1HKY">pic.twitter.com/kfwd0G1HKY</a></p>&mdash; ZORAH SECURE DA BAGDAROS (@METALTEARSOLID) <a href="https://twitter.com/METALTEARSOLID/status/969315863236001792?ref_src=twsrc%5Etfw">March 1, 2018</a></blockquote>
 
 ### Video
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/If-n27SUAl8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

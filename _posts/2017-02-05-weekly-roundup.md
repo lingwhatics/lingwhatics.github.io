@@ -24,4 +24,4 @@ The move from wordpress to a github pages page with the proper lingwhatics.ca UR
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">One for the birders. <a href="https://t.co/58JRXORMfk">pic.twitter.com/58JRXORMfk</a></p>&mdash; Bird and Moon (@RosemaryMosco) <a href="https://twitter.com/RosemaryMosco/status/826581598019657728">February 1, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">One for the birders. <a href="https://t.co/58JRXORMfk">pic.twitter.com/58JRXORMfk</a></p>&mdash; Bird and Moon (@RosemaryMosco) <a href="https://twitter.com/RosemaryMosco/status/826581598019657728">February 1, 2017</a></blockquote>

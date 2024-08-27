@@ -22,4 +22,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is how you properly handle foodie privilege. <a href="https://t.co/qbXmT4U8JN">pic.twitter.com/qbXmT4U8JN</a></p>&mdash; Joe Ballenger (@Stylopidae) <a href="https://twitter.com/Stylopidae/status/847853309650243584">March 31, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">This is how you properly handle foodie privilege. <a href="https://t.co/qbXmT4U8JN">pic.twitter.com/qbXmT4U8JN</a></p>&mdash; Joe Ballenger (@Stylopidae) <a href="https://twitter.com/Stylopidae/status/847853309650243584">March 31, 2017</a></blockquote>

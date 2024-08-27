@@ -20,4 +20,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">Ded. <a href="https://t.co/megUmNqFVd">pic.twitter.com/megUmNqFVd</a></p>&mdash; Kevin Fox 🦊 (@kfury) <a href="https://twitter.com/kfury/status/892888280810700804">August 2, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-lang="en"><p lang="und" dir="ltr">Ded. <a href="https://t.co/megUmNqFVd">pic.twitter.com/megUmNqFVd</a></p>&mdash; Kevin Fox 🦊 (@kfury) <a href="https://twitter.com/kfury/status/892888280810700804">August 2, 2017</a></blockquote>

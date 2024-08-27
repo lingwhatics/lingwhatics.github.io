@@ -20,4 +20,4 @@ tags: []
   
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Local fowl <a href="https://t.co/ETXlUQO2uG">pic.twitter.com/ETXlUQO2uG</a></p>&mdash; Shawn Micallef (@shawnmicallef) <a href="https://twitter.com/shawnmicallef/status/874345502225125376">June 12, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">Local fowl <a href="https://t.co/ETXlUQO2uG">pic.twitter.com/ETXlUQO2uG</a></p>&mdash; Shawn Micallef (@shawnmicallef) <a href="https://twitter.com/shawnmicallef/status/874345502225125376">June 12, 2017</a></blockquote>

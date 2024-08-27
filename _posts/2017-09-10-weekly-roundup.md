@@ -20,4 +20,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">canceling plans to read is ok. skipping a party for the gym is ok. staying home to cook is ok. lets encourage it &amp; respect self improvement.</p>&mdash; Chance The Rapper (@ChanceFrom79th) <a href="https://twitter.com/ChanceFrom79th/status/904404956085702656">September 3, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">canceling plans to read is ok. skipping a party for the gym is ok. staying home to cook is ok. lets encourage it &amp; respect self improvement.</p>&mdash; Chance The Rapper (@ChanceFrom79th) <a href="https://twitter.com/ChanceFrom79th/status/904404956085702656">September 3, 2017</a></blockquote>

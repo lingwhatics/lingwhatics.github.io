@@ -20,4 +20,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Good morning. Another day, another 5ft squirrel trying to break into my car. <a href="https://t.co/8Er21o3wla">pic.twitter.com/8Er21o3wla</a></p>&mdash; Paul Bronks (@virtuallydead) <a href="https://twitter.com/virtuallydead/status/857834735170723840">April 28, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">Good morning. Another day, another 5ft squirrel trying to break into my car. <a href="https://t.co/8Er21o3wla">pic.twitter.com/8Er21o3wla</a></p>&mdash; Paul Bronks (@virtuallydead) <a href="https://twitter.com/virtuallydead/status/857834735170723840">April 28, 2017</a></blockquote>

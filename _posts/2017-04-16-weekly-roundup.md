@@ -22,4 +22,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I simply cannot stop thinking about this savagely passive-aggressive sign <a href="https://t.co/suZXgKsxi8">pic.twitter.com/suZXgKsxi8</a></p>&mdash; Laura Fisher (@termitetree) <a href="https://twitter.com/termitetree/status/853361348117499904">April 15, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">I simply cannot stop thinking about this savagely passive-aggressive sign <a href="https://t.co/suZXgKsxi8">pic.twitter.com/suZXgKsxi8</a></p>&mdash; Laura Fisher (@termitetree) <a href="https://twitter.com/termitetree/status/853361348117499904">April 15, 2017</a></blockquote>

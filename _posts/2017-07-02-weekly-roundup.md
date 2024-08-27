@@ -20,7 +20,7 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">Pascal dans Le Devoir. <a href="https://twitter.com/hashtag/canada150?src=hash">#canada150</a> <a href="https://t.co/kEnPnywPMY">pic.twitter.com/kEnPnywPMY</a></p>&mdash; Don Macpherson (@DMacpGaz) <a href="https://twitter.com/DMacpGaz/status/881153304268505088">July 1, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-lang="en"><p lang="fr" dir="ltr">Pascal dans Le Devoir. <a href="https://twitter.com/hashtag/canada150?src=hash">#canada150</a> <a href="https://t.co/kEnPnywPMY">pic.twitter.com/kEnPnywPMY</a></p>&mdash; Don Macpherson (@DMacpGaz) <a href="https://twitter.com/DMacpGaz/status/881153304268505088">July 1, 2017</a></blockquote>
 
 ### Video
 

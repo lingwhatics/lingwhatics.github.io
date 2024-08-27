@@ -22,4 +22,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Friend at work made a fly motel, then added good Yelp reviews to entice the flies <a href="https://t.co/cwiryjR7gz">pic.twitter.com/cwiryjR7gz</a></p>&mdash; Depeche Joe (@joestando) <a href="https://twitter.com/joestando/status/885568450126589952">July 13, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">Friend at work made a fly motel, then added good Yelp reviews to entice the flies <a href="https://t.co/cwiryjR7gz">pic.twitter.com/cwiryjR7gz</a></p>&mdash; Depeche Joe (@joestando) <a href="https://twitter.com/joestando/status/885568450126589952">July 13, 2017</a></blockquote> 

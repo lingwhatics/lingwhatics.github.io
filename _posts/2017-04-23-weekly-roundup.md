@@ -20,6 +20,6 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">trip from Laguardia to midtown is like dystopian performance art staged by civil engineers to demonstrate America&#39;s infrastructure deficit</p>&mdash; Jonathan Kay (@jonkay) <a href="https://twitter.com/jonkay/status/728579474233548800">May 6, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">trip from Laguardia to midtown is like dystopian performance art staged by civil engineers to demonstrate America&#39;s infrastructure deficit</p>&mdash; Jonathan Kay (@jonkay) <a href="https://twitter.com/jonkay/status/728579474233548800">May 6, 2016</a></blockquote>
 
 ^ This is just as true this week as it was nearly a year ago, and will continue to be true until construction is complete.

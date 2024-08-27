@@ -27,4 +27,4 @@ tags: []
 
 ### Tweet
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Next time someone says &quot;excel is the worst&quot; be more helpful and say this ... <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://twitter.com/hashtag/EARLConf2017?src=hash">#EARLConf2017</a> <a href="https://t.co/2PHKRPteAg">pic.twitter.com/2PHKRPteAg</a></p>&mdash; Alice Data (@alice_data) <a href="https://twitter.com/alice_data/status/908249895559159809">September 14, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="tweet" data-lang="en"><p lang="en" dir="ltr">Next time someone says &quot;excel is the worst&quot; be more helpful and say this ... <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://twitter.com/hashtag/EARLConf2017?src=hash">#EARLConf2017</a> <a href="https://t.co/2PHKRPteAg">pic.twitter.com/2PHKRPteAg</a></p>&mdash; Alice Data (@alice_data) <a href="https://twitter.com/alice_data/status/908249895559159809">September 14, 2017</a></blockquote>

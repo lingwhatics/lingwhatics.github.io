@@ -7,6 +7,10 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2024
+- _The Lost Art of Walking: The History, Science, and Literature of Pedestrianism_ by 
+Geoff Nicholson (2008)
+- _Leonard Cohen. Sur un fil_ by Philippe Girard (2021)
+- _When McKinsey Comes to Town: The Hidden Influence of the World's Most Powerful Consulting Firm_ by Walt Bogdanich and Michael Forsythe (2022)
 - _Le Monde sans fin_ by Jean-Marc Jancovici, Christophe Blain (Illustrator) (2021)
 - _Frida Kahlo: Her Life, Her Work, Her Home_ by Francisco de la Mora (2023)
 

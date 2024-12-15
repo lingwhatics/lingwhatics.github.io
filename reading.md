@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2024
+- _Quit: The Power of Knowing When to Walk Away_ Annie Duke (2022)
 - _The Lost Art of Walking: The History, Science, and Literature of Pedestrianism_ by 
 Geoff Nicholson (2008)
 - _Leonard Cohen. Sur un fil_ by Philippe Girard (2021)

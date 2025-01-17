@@ -6,6 +6,9 @@ permalink: /reading/
 
 ## Books I have been reading
 
+### 2025
+- _A Psalm for the Wild-Built_ Becky Chambers (2021)
+
 ### 2024
 - _Quit: The Power of Knowing When to Walk Away_ Annie Duke (2022)
 - _The Lost Art of Walking: The History, Science, and Literature of Pedestrianism_ by 

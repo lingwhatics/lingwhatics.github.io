@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly roundup January 12-19
-date: 2024-10-19
+date: 2025-01-19
 type: post
 published: true
 categories:

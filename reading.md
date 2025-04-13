@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2025
+- _A Prayer for the Crown-Shy_ Becky Chambers (2022)
 - _Meet Me by the Fountain: An Inside History of the Mall_ Alexandra Lange (2022)
 - _We, the Others: Allophones, Immigrants, and Belonging in Canada_ Toula Drimonis (2022)
 - _Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect_ Will Guidara (2022)

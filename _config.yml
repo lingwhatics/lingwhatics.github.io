@@ -15,7 +15,6 @@ description: where I share stuff
 url: https://lingwhatics.ca
 baseurl: # the subpath of your site, e.g. /blog
 paginate: 7
-twitter_username: lingwhatics
 github_username:  lingwhatics
 
 # Build settings

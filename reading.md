@@ -7,14 +7,15 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2025
-- _A Prayer for the Crown-Shy_ Becky Chambers (2022)
-- _Meet Me by the Fountain: An Inside History of the Mall_ Alexandra Lange (2022)
-- _We, the Others: Allophones, Immigrants, and Belonging in Canada_ Toula Drimonis (2022)
-- _Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect_ Will Guidara (2022)
-- _A Psalm for the Wild-Built_ Becky Chambers (2021)
+- _La langue rapaillée: Combattre l'insécurité linguistique des Québécois_ by Anne-Marie Beaudoin-Bégin (2015)
+- _A Prayer for the Crown-Shy_ by Becky Chambers (2022)
+- _Meet Me by the Fountain: An Inside History of the Mall_ by Alexandra Lange (2022)
+- _We, the Others: Allophones, Immigrants, and Belonging in Canada_ by Toula Drimonis (2022)
+- _Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect_ by Will Guidara (2022)
+- _A Psalm for the Wild-Built_ by Becky Chambers (2021)
 
 ### 2024
-- _Quit: The Power of Knowing When to Walk Away_ Annie Duke (2022)
+- _Quit: The Power of Knowing When to Walk Away_ by Annie Duke (2022)
 - _The Lost Art of Walking: The History, Science, and Literature of Pedestrianism_ by 
 Geoff Nicholson (2008)
 - _Leonard Cohen. Sur un fil_ by Philippe Girard (2021)

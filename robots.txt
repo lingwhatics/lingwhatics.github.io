@@ -33,5 +33,77 @@ Disallow: /
 User-agent: YouBot
 Disallow: /
 
+User-agent: dotbot
+Disallow: /
+
+User-agent: dotnetdotcom
+Disallow: /
+
+User-agent: spinn3r
+Disallow: /
+
+User-agent: Spinn3r
+Disallow: /
+
+User-agent: SISTRIX
+Disallow: /
+
+User-agent: spbot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: betabot
+Disallow: /
+
+User-agent: Trident
+Disallow: /
+
+User-agent: Tagoobot
+Disallow: /
+
+User-agent: alexa
+Disallow: /
+
+User-agent: exabot
+Disallow: /
+
+User-agent: discoveryengine
+Disallow: /
+
+User-agent: scholaruniverse
+Disallow: /
+
+User-agent: myspace
+Disallow: /
+
+User-agent: discobot
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
 User-agent: *
 Allow: /

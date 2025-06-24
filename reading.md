@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2025
+- _Simple Sabotage Field Manual_ by U.S. Office of Strategic Services (1944)
 - _La langue rapaillée: Combattre l'insécurité linguistique des Québécois_ by Anne-Marie Beaudoin-Bégin (2015)
 - _A Prayer for the Crown-Shy_ by Becky Chambers (2022)
 - _Meet Me by the Fountain: An Inside History of the Mall_ by Alexandra Lange (2022)

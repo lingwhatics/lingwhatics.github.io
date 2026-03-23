@@ -6,6 +6,10 @@ permalink: /reading/
 
 ## Books I have been reading
 
+### 2026
+- _Sorry I'm Late, I Didn't Want to Come: One Introvert's Year of Saying Yes_ by Jessica Pan (2019)
+- _Life After Cars: Freeing Ourselves from the Tyranny of the Automobile_ by Aaron Naparstek, Doug Gordon, Sarah Goodyear (2025)
+
 ### 2025
 - _Simple Sabotage Field Manual_ by U.S. Office of Strategic Services (1944)
 - _La langue rapaillée: Combattre l'insécurité linguistique des Québécois_ by Anne-Marie Beaudoin-Bégin (2015)

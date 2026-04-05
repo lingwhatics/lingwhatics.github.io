@@ -7,6 +7,7 @@ permalink: /reading/
 ## Books I have been reading
 
 ### 2026
+- _Underground: A Human History of the Worlds Beneath Our Feet_ by Will Hunt (2019)
 - _Sorry I'm Late, I Didn't Want to Come: One Introvert's Year of Saying Yes_ by Jessica Pan (2019)
 - _Life After Cars: Freeing Ourselves from the Tyranny of the Automobile_ by Aaron Naparstek, Doug Gordon, Sarah Goodyear (2025)
 

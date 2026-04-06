@@ -17,6 +17,5 @@ paginate: 7
 github_username:  lingwhatics
 
 # Build settings
-markdown: kramdown
 plugins:
    - jekyll-paginate
